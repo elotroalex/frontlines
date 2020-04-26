@@ -3,8 +3,8 @@ layout: page
 show_title: false
 banner:
   collection: frontlines
-  pid: n21
-  y: 20%
+  pid: n23
+  y: 15%
   height: '500px'
 ---
 
