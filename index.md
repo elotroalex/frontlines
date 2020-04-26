@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: frontlines
   pid: n23
-  y: 15%
+  y: 26%
   height: '500px'
 ---
 

@@ -28,7 +28,7 @@ function displayResult(item, fields, url) {
   for (i in fields) {
     fieldLabel = fields[i];
     if (fieldLabel in item ) {
-      meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
+      meta.push(`${excerptedString(item[fieldLabel])}`);
     }
   }
   return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
