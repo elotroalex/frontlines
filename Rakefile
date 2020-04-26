@@ -19,3 +19,20 @@ namespace :wax do
     system('bundle exec rspec') if File.exist?('.rspec')
   end
 end
+
+# Pushing to dev
+
+task :dev do
+  puts 'First, let\'s build your site...'
+  sh "bundle exec jekyll build"
+  puts "\n"
+  puts 'Now let\'s publish it, hold on a sec...'
+# personal server setup
+  user = 'agil'
+  server = 'elotroalex.com'
+  path = '/home/agil/dev.elotroalex.com/frontlines/' 
+  sh "rsync -a -r -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
+  puts "\n"
+  puts 'Bam! Your website is now published!'
+  puts "\n"
+end

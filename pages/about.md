@@ -1,48 +1,17 @@
 ---
 layout: page
-title: What is Wax?
+title: What is Frontline Nurses?
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
-
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
-
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
-
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
-
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
-
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
 
 
-## So what does the Wax workflow *look like?*
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum euismod, dui id pulvinar pulvinar, odio ipsum euismod purus, eu feugiat tellus nulla sed lorem. Donec et gravida enim, non lacinia sapien. Praesent vestibulum velit non tellus rutrum maximus. Nunc efficitur sollicitudin ipsum non sodales. Phasellus varius erat diam, in imperdiet arcu convallis et. Quisque ac turpis sed mauris gravida mattis. Vivamus semper id quam egestas facilisis. Quisque non arcu lacinia elit pellentesque pretium sed sit amet nisl.
 
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
+Ut finibus quam non nulla pretium pellentesque. Nulla vulputate commodo mi, a bibendum odio commodo at. Morbi ullamcorper, enim vitae aliquet vestibulum, risus ligula dapibus ex, eu lobortis neque ex sed libero. Maecenas vestibulum ullamcorper nibh, at pellentesque nunc dictum ultricies. Suspendisse lacinia sodales tortor, a pharetra erat molestie ut. Donec vel dolor congue, pellentesque augue vitae, suscipit mi. Mauris quis nisl id tortor placerat luctus congue placerat lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod enim lacus, et ultrices nulla lobortis eget. Pellentesque mattis ornare est a eleifend. In vel eleifend tortor. Suspendisse vehicula posuere mi quis consequat. Ut id lacus dui.
 
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
+Phasellus ultricies feugiat leo eget convallis. Nullam blandit et ligula in iaculis. Phasellus lobortis dui id orci iaculis finibus a a leo. Duis sagittis, nisi eget malesuada volutpat, augue leo commodo lacus, eu dictum dui justo quis nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla eu lacinia diam. Quisque turpis eros, fermentum quis arcu eget, scelerisque venenatis elit. Sed sit amet augue cursus, commodo justo sit amet, pretium nisl. Nullam vel turpis ac magna tincidunt pretium eu id orci.
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis pretium vel tellus quis mattis. Donec varius nunc dolor, id viverra magna pulvinar sit amet. Donec pulvinar lacus massa, et rutrum purus mollis nec. Nunc ullamcorper semper augue. Aenean vulputate libero non orci dapibus, in accumsan metus vehicula. Maecenas auctor pulvinar volutpat. Nunc condimentum, augue a vehicula ultricies, turpis sem gravida dui, non efficitur urna ex ac odio. Nunc lorem sem, vehicula in velit id, ultrices consectetur sapien. Vestibulum viverra leo rutrum ipsum faucibus elementum. Nulla congue leo mi, ac bibendum diam ultricies eget. Pellentesque purus erat, rutrum consequat vulputate eget, malesuada non sem. Etiam congue porttitor sapien, nec pretium odio. Nam consequat est lorem, eu tempus metus consectetur vel. Mauris eu dignissim dolor.
+
+Nulla gravida vulputate purus sit amet dictum. Nulla aliquam ligula elit, vel gravida enim laoreet ac. Proin eget convallis nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris laoreet enim eget nulla malesuada bibendum. Cras cursus justo at sem pulvinar, eget malesuada arcu ornare. Nam ac lectus ipsum. Mauris venenatis lectus nec ex iaculis convallis. Vivamus lobortis, nisi in feugiat ultrices, turpis tortor tempus purus, eu elementum lacus urna sollicitudin velit. Ut tempor elit at purus porttitor pulvinar. Suspendisse potenti. Suspendisse ut diam vel enim vestibulum aliquet sed non tellus. Curabitur hendrerit nunc dui, et consequat neque iaculis at. Nunc tristique nisi sed maximus feugiat. Praesent gravida nisl sed dapibus eleifend. 

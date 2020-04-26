@@ -104,7 +104,7 @@ menu:
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
+  - label: 'Essays'
     sub:
       - label: 'Inline Parallax Image'
         link: '/exhibits/a/'
