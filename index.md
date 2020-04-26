@@ -2,9 +2,9 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
-  y: 25%
+  collection: frontlines
+  pid: n21
+  y: 20%
   height: '500px'
 ---
 
@@ -14,4 +14,4 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='interview_country' collection='frontlines' %}

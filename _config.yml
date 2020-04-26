@@ -21,7 +21,7 @@
 title:            'Frontline Nurses'
 description:      ''
 url:              ''
-baseurl:          ''
+baseurl:          '/frontlines'
 copyright:        'Columbia University, 2020'
 logo:             '/assets/logo.png'
 
@@ -64,7 +64,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  frontlines: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'frontlines_item' # the layout for the pages to use
     metadata:
