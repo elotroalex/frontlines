@@ -7,7 +7,7 @@ layout: none
     "name": "Dr. Joan Shepherd",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n08/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n08/thumbnail.jpg",
     "permalink": "/frontlines/n08",
     "lunr_id": 0
   },
@@ -16,7 +16,7 @@ layout: none
     "name": "James N. Harries",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n18/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n18/thumbnail.jpg",
     "permalink": "/frontlines/n18",
     "lunr_id": 1
   },
@@ -25,7 +25,7 @@ layout: none
     "name": "Constance T. Lumeh",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n38/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n38/thumbnail.jpg",
     "permalink": "/frontlines/n38",
     "lunr_id": 2
   },
@@ -34,7 +34,7 @@ layout: none
     "name": "Christiana Conteh",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n28/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n28/thumbnail.jpg",
     "permalink": "/frontlines/n28",
     "lunr_id": 3
   },
@@ -43,7 +43,7 @@ layout: none
     "name": "Isatu Kamara",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n39/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n39/thumbnail.jpg",
     "permalink": "/frontlines/n39",
     "lunr_id": 4
   },
@@ -52,7 +52,7 @@ layout: none
     "name": "Elizabeth Koroma",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n29/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n29/thumbnail.jpg",
     "permalink": "/frontlines/n29",
     "lunr_id": 5
   },
@@ -61,7 +61,7 @@ layout: none
     "name": "Josephine Finda Sellu",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n09/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n09/thumbnail.jpg",
     "permalink": "/frontlines/n09",
     "lunr_id": 6
   },
@@ -70,7 +70,7 @@ layout: none
     "name": "Julia W. Kamara",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n19/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n19/thumbnail.jpg",
     "permalink": "/frontlines/n19",
     "lunr_id": 7
   },
@@ -79,7 +79,7 @@ layout: none
     "name": "Wilhelmina W.G. Flomo",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n36/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n36/thumbnail.jpg",
     "permalink": "/frontlines/n36",
     "lunr_id": 8
   },
@@ -88,7 +88,7 @@ layout: none
     "name": "Darboi G. Korkoyah",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n02/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n02/thumbnail.jpg",
     "permalink": "/frontlines/n02",
     "lunr_id": 9
   },
@@ -97,7 +97,7 @@ layout: none
     "name": "Mary A.M. Fullah",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n12/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n12/thumbnail.jpg",
     "permalink": "/frontlines/n12",
     "lunr_id": 10
   },
@@ -106,7 +106,7 @@ layout: none
     "name": "Philip Tommy",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n26/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n26/thumbnail.jpg",
     "permalink": "/frontlines/n26",
     "lunr_id": 11
   },
@@ -115,7 +115,7 @@ layout: none
     "name": "Hannah Coker",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n06/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n06/thumbnail.jpg",
     "permalink": "/frontlines/n06",
     "lunr_id": 12
   },
@@ -124,7 +124,7 @@ layout: none
     "name": "Haurace Nyandemoh",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n32/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n32/thumbnail.jpg",
     "permalink": "/frontlines/n32",
     "lunr_id": 13
   },
@@ -133,7 +133,7 @@ layout: none
     "name": "Mawah Kamara Verdier",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n22/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n22/thumbnail.jpg",
     "permalink": "/frontlines/n22",
     "lunr_id": 14
   },
@@ -142,7 +142,7 @@ layout: none
     "name": "Gloria Stevens",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n16/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n16/thumbnail.jpg",
     "permalink": "/frontlines/n16",
     "lunr_id": 15
   },
@@ -151,7 +151,7 @@ layout: none
     "name": "Jestina T. Clarke",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n07/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n07/thumbnail.jpg",
     "permalink": "/frontlines/n07",
     "lunr_id": 16
   },
@@ -160,7 +160,7 @@ layout: none
     "name": "Hosinatu Mary Kanu",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n33/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n33/thumbnail.jpg",
     "permalink": "/frontlines/n33",
     "lunr_id": 17
   },
@@ -169,7 +169,7 @@ layout: none
     "name": "Maria J. Morris",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n23/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n23/thumbnail.jpg",
     "permalink": "/frontlines/n23",
     "lunr_id": 18
   },
@@ -178,7 +178,7 @@ layout: none
     "name": "Helena K. Tarnue",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n17/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n17/thumbnail.jpg",
     "permalink": "/frontlines/n17",
     "lunr_id": 19
   },
@@ -187,7 +187,7 @@ layout: none
     "name": "Senesie Margao",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n37/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n37/thumbnail.jpg",
     "permalink": "/frontlines/n37",
     "lunr_id": 20
   },
@@ -196,7 +196,7 @@ layout: none
     "name": "Dolphine Buoga",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n03/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n03/thumbnail.jpg",
     "permalink": "/frontlines/n03",
     "lunr_id": 21
   },
@@ -205,7 +205,7 @@ layout: none
     "name": "Ramatta Y. Kogar",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n13/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n13/thumbnail.jpg",
     "permalink": "/frontlines/n13",
     "lunr_id": 22
   },
@@ -214,7 +214,7 @@ layout: none
     "name": "Adella F. Combey",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n27/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n27/thumbnail.jpg",
     "permalink": "/frontlines/n27",
     "lunr_id": 23
   },
@@ -223,7 +223,7 @@ layout: none
     "name": "Elizabeth K. Lemor",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n04/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n04/thumbnail.jpg",
     "permalink": "/frontlines/n04",
     "lunr_id": 24
   },
@@ -232,7 +232,7 @@ layout: none
     "name": "Fatmata Samura",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n30/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n30/thumbnail.jpg",
     "permalink": "/frontlines/n30",
     "lunr_id": 25
   },
@@ -241,7 +241,7 @@ layout: none
     "name": "Korto Suakolli Bombo",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n20/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n20/thumbnail.jpg",
     "permalink": "/frontlines/n20",
     "lunr_id": 26
   },
@@ -250,7 +250,7 @@ layout: none
     "name": "Annette Mwansa Nkowane",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n14/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n14/thumbnail.jpg",
     "permalink": "/frontlines/n14",
     "lunr_id": 27
   },
@@ -259,7 +259,7 @@ layout: none
     "name": "Diana T. Sarteh",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n34/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n34/thumbnail.jpg",
     "permalink": "/frontlines/n34",
     "lunr_id": 28
   },
@@ -268,7 +268,7 @@ layout: none
     "name": "Margaret Loma Phiri",
     "interview_country": "Malawi",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n10/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n10/thumbnail.jpg",
     "permalink": "/frontlines/n10",
     "lunr_id": 29
   },
@@ -277,7 +277,7 @@ layout: none
     "name": "Patience D. Cooper Tokpah",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n24/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n24/thumbnail.jpg",
     "permalink": "/frontlines/n24",
     "lunr_id": 30
   },
@@ -286,7 +286,7 @@ layout: none
     "name": "Numu B. Charm",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n35/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n35/thumbnail.jpg",
     "permalink": "/frontlines/n35",
     "lunr_id": 31
   },
@@ -295,7 +295,7 @@ layout: none
     "name": "Christiana B. Massally",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n01/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n01/thumbnail.jpg",
     "permalink": "/frontlines/n01",
     "lunr_id": 32
   },
@@ -304,7 +304,7 @@ layout: none
     "name": "Marthalyne G.N. Freeman",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n11/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n11/thumbnail.jpg",
     "permalink": "/frontlines/n11",
     "lunr_id": 33
   },
@@ -313,7 +313,7 @@ layout: none
     "name": "Sieneh W. Miller",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n25/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n25/thumbnail.jpg",
     "permalink": "/frontlines/n25",
     "lunr_id": 34
   },
@@ -322,7 +322,7 @@ layout: none
     "name": "Fatmata Kargbo",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n05/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n05/thumbnail.jpg",
     "permalink": "/frontlines/n05",
     "lunr_id": 35
   },
@@ -331,7 +331,7 @@ layout: none
     "name": "Fonti Kargbo",
     "interview_country": "Sierra Leone",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n31/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n31/thumbnail.jpg",
     "permalink": "/frontlines/n31",
     "lunr_id": 36
   },
@@ -340,7 +340,7 @@ layout: none
     "name": "Matilda W. Doe",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n21/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n21/thumbnail.jpg",
     "permalink": "/frontlines/n21",
     "lunr_id": 37
   },
@@ -349,7 +349,7 @@ layout: none
     "name": "Victoria I. Roberts",
     "interview_country": "Liberia",
     "collection": "frontlines",
-    "thumbnail": "img/derivatives/simple/n15/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/simple/n15/thumbnail.jpg",
     "permalink": "/frontlines/n15",
     "lunr_id": 38
   }
