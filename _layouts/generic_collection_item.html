@@ -39,3 +39,9 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+
+<h3>Excerpts</h3>
+
+{% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}
+{{ excerpt | markdownify }}
+
