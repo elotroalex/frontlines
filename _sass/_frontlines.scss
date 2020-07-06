@@ -9,17 +9,19 @@ html, body {
   word-wrap: break-word;
 }
 
+.wax-inline-container {
+	margin: 2%;
+}
+
 // 
 
 a {
 	text-decoration-thickness: 2px;
 }
 
-// 
+// Navbar
 
-.wax-inline-container {
-	margin: 2%;
-}
+
 
 .navbar-brand, .menu-button {
   font-style: normal;
@@ -38,9 +40,27 @@ a {
   /* or 62% */
   letter-spacing: -0.035em;
   color: $text-color;
-  margin-bottom: 200px;
+  margin-bottom: 160px;
   display: block;
 }
+
+// Banner
+
+.banner-text {
+	width: 45%;
+	margin-left: 2%;
+}
+
+.banner-image {
+  background-position: 36% 51%;
+  height: 500px !important;
+  position: absolute;
+  top: 80px;
+  right: 20px;
+  width: 50%;
+}
+
+
 
 // Sidebar
 
@@ -70,6 +90,7 @@ a {
   font-weight: 300;
   display: block;
   transition: 0.3s;
+  color: $text-color;
 }
 
 .sidenav a.menu-item {
