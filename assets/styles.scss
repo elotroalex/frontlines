@@ -6,46 +6,59 @@ variable declaration
 */
 
 /* branding */
-$logo: url("{{ '/assets/logo.png' | absolute_url }}");
+// $logo: url("{{ '/assets/logo.png' | absolute_url }}");
+
+@font-face {
+    font-family: 'basis-grotesque-regular-pro';
+    src: url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.eot');
+    src: url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.eot?#iefix') format('embedded-opentype'),
+         url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.woff2') format('woff2'),
+         url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.woff') format('woff'),
+         url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* text */
 
-$body-font:       'Open Sans', 'sans-serif';
-$heading-font:    'Open Sans', 'sans-serif';
+$body-font:       'basis-grotesque-regular-pro', 'sans-serif';
+$heading-font:    'basis-grotesque-regular-pro', 'sans-serif';
 
 
 /* Image Size */
 
-$thumbnail-height: 140px;
-$thumbnail-width: 140px;
+// $thumbnail-height: 140px;
+// $thumbnail-width: 140px;
 
 /* colors */
 
-$text-color:      #100c01;
+// $text-color:      #100c01;
 $bg-color:        #ffffff;
-$neutral:         #eae7de;
-$accent-light:    #966d09;
-$accent-dark:     #644906;
+// $neutral:         #eae7de;
+// $accent-light:    #966d09;
+// $accent-dark:     #644906;
 
 /* viewport sizes */
 
-$max-width:       800px;
+// $max-width:       800px;
 
 /* margins */
 
-$less-margin:     1.0rem;
-$margin:          1.5rem;
-$more-margin:     2.0rem;
-$super-margin:    3.0rem;
+// $less-margin:     1.0rem;
+// $margin:          1.5rem;
+// $more-margin:     2.0rem;
+// $super-margin:    3.0rem;
 
 
-$viewer-height:   550px;
-$parallax-height: 350px;
-$footer-height:   250px;
+// $viewer-height:   550px;
+// $parallax-height: 350px;
+// $footer-height:   250px;
 
 /*
 font & asset import
 */
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
-@import 'wax';
+// @import 'wax';
+@import 'frontlines';
+
