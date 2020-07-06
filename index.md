@@ -15,4 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum euismod, dui
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='interview_country' collection='frontlines' %}
+{% comment %}{% include collection_gallery.html facet_by='interview_country' collection='frontlines' %}{% endcomment %}

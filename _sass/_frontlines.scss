@@ -8,3 +8,35 @@ html, body {
   text-rendering: optimizeLegibility;
   word-wrap: break-word;
 }
+
+// 
+
+a {
+	text-decoration-thickness: 2px;
+}
+
+// 
+
+.wax-inline-container {
+	margin: 2%;
+}
+
+.navbar-brand {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 45px;
+  /* identical to box height */
+  letter-spacing: -0.02em;
+}
+
+.navbar-subtitle {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 185px;
+  line-height: 155px;
+  /* or 62% */
+  letter-spacing: -0.035em;
+  color: $text-color;
+  margin-bottom: 200px;
+}

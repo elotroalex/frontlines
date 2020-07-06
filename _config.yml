@@ -19,6 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Frontline Nurses'
+subtitle:         'Ebola'
 description:      ''
 url:              ''
 baseurl:          '/frontlines'
