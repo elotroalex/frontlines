@@ -4,31 +4,20 @@
     <br>
     <a class='navbar-subtitle' href="#" title="home">{{ site.subtitle | newline_to_br }}</a>
 
-    <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
-      <span class='navbar-toggler-icon'></span>
-    </button>
+    <!-- Sidebar -->
 
-    <div class='collapse navbar-collapse' id="wax-header-navbar">
-      <ul class='nav navbar-nav ml-auto justify-content-end'>
-        {% for item in site.menu %}
-          {% if item.sub %}
-            <li class='nav-item dropdown'>
-              <a class='nav-link dropdown-toggle' href='#' id='wax-{{ item.label }}-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
-                {{ item.label }}
-              </a>
-              <div class='dropdown-menu' aria-labelledby='wax-{{ item.label }}-dropdown'>
-                {% for sub in item.sub %}
-                  <a class='dropdown-item' href='{{ sub.link | absolute_url }}'>{{ sub.label }}</a>
-                {% endfor %}
-              </div>
-            </li>
-          {% else %}
-            <li class='nav-item'>
-              <a class='nav-link' href='{{ item.link | absolute_url }}'>{{ item.label }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
+  <div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Clients</a>
+    <a href="#">Contact</a>
+  </div>
+
+
+  <span class="menu-button" style="cursor:pointer" onclick="openNav()" data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>&#9776; menu</span>
+
+
+
   </div>
  </nav>
