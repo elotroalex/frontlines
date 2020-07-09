@@ -1,5 +1,5 @@
 html, body {
-  margin: 2%;
+  margin: 0;
   padding: 0;
   background-color: $bg-color;
   font-family: $body-font;
@@ -10,9 +10,14 @@ html, body {
 }
 
 
-#main-content {
+.inline-container {
   background-color: #fff;
 }
+
+.main-content {
+  padding: 2%;
+}
+
 
 // 
 
