@@ -49,7 +49,7 @@ a {
 //   padding: 0px 2% 20px 2%;
 // }
 
-.page-title-link {
+.page-title-link, {
   font-style: normal;
   font-weight: normal;
   font-size: 185px;
@@ -58,6 +58,7 @@ a {
   letter-spacing: -0.035em;
   color: $text-color;
 }
+
 
 .banner-text-bottom-left {
 }
@@ -130,4 +131,11 @@ a {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 10px;}
   .sidenav a {font-size: 18px;}
+}
+
+// Footer
+
+.footer-title {
+  font-size: 4rem;
+  letter-spacing: -0.035em;
 }
