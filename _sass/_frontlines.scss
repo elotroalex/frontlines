@@ -19,9 +19,7 @@ html, body {
   max-width: 98%
 }
 
-.banner.container {
-  padding-bottom: 1rem;
-}
+
 
 // General
 
@@ -51,8 +49,12 @@ a:hover {
 //   padding: 0px 2% 20px 2%;
 // }
 
+.banner .row {
+  padding-bottom: 1rem;
+}
+
 .page-title {
-  padding-bottom: 12rem;
+  padding-bottom: 18rem;
 }
 
 a.page-title-link, {
@@ -72,12 +74,8 @@ a.page-title-link:hover {
 }
 
 
-.banner-text-bottom-left {
-}
-
 .banner-image-right {
-  background-position: 36% 51%;
-  height: 33.3rem !important;
+  height: 40rem !important;
   overflow-y: hidden;
 }
 
