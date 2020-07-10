@@ -138,6 +138,7 @@ a.page-title-link:hover {
       margin-top: 1rem;
       font-family: $heading-font;
       border-color: $text-color;
+      text-transform:capitalize;
     }
     .active{
       @extend .facet;

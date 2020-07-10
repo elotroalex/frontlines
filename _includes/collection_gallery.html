@@ -20,6 +20,8 @@
     var gallery = $('#wax-gallery-{{ include.collection }}');
     var buttonDiv = $('#{{ include.collection }}-facet-buttons');
 
+
+
     {% if subset %}
       {% for item in subset %}
         {%- capture item_html -%}
@@ -41,9 +43,20 @@
         var facets = Array.from(new Set([{%- for item in collection -%}'{{ item[include.facet_by] | slugify }}'{% unless forloop.last %}, {% endunless %}{%- endfor -%}]));
         buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
 
+        function toTitleCase(str) {
+        return str.replace(
+            /\w\S*/g,
+            function(txt) {
+                return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+            }
+          );
+        };
+
         for (i in facets) {
-          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i].replace(/-/g, ' ')}</button>`);
         }
+
+
 
         $(document).ready(function(){
           $(".facet").click(function(){
