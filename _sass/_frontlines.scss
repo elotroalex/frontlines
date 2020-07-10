@@ -23,6 +23,10 @@ html, body {
 
 // General
 
+p {
+  font-size: 1.2rem;
+}
+
 a {
   color: $accent-dark;
 }
@@ -136,6 +140,11 @@ a.page-title-link:hover {
 
 .content {
   padding-bottom: 8rem;
+}
+
+.sound-player {
+  margin-top: 8rem;
+  margin-bottom: 8rem;
 }
 
 // Wax

@@ -29,35 +29,33 @@ layout: default
 <!-- METADATA TABLE -->
 
 <div class='main container'>
-  <div class="row">
 
-{% if layout.meta.size %}
-  {% assign metadata = layout.meta %}
-{% elsif page.meta.size %}
-  {% assign metadata = page.meta %}
-{% endif %}
-{% if metadata.size %}
-  {% include item_metadata.html meta=metadata %}
-{% endif %}
+  <!-- SOUNDCLOUD -->
+  <div class="row sound-player">
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/846950539&color=%2390cae1&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+    <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-568440441" title="Kurt" target="_blank" style="color: #cccccc; text-decoration: none;">Kurt</a> · <a href="https://soundcloud.com/user-568440441/n08" title="Dr. Joan Shepherd Interview Excerpts" target="_blank" style="color: #cccccc; text-decoration: none;">Dr. Joan Shepherd Interview Excerpts</a></div>
+  </div>   
+
+  <!-- TRANSCRIPTIONS -->  
+  
+
+  <div class="row justify-content-center">
+    <div class="col-8">
+
+    {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
+
+    {{ excerpt | markdownify }}
+    </div>
   </div>
-  <hr>
-
-<!-- SOUNDCLOUD -->
-  <div class="row">
-  <h3>Soundcloud</h3>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/846950539&color=%2390cae1&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-  <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-568440441" title="Kurt" target="_blank" style="color: #cccccc; text-decoration: none;">Kurt</a> · <a href="https://soundcloud.com/user-568440441/n08" title="Dr. Joan Shepherd Interview Excerpts" target="_blank" style="color: #cccccc; text-decoration: none;">Dr. Joan Shepherd Interview Excerpts</a></div>
-
-<!-- TRANSCRIPTIONS -->
-
-  <hr>
 
   <div class="row">
-  <h3>Excerpts</h3>  
-
-  {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
-
-  {{ excerpt | markdownify }}
+    {% if layout.meta.size %}
+      {% assign metadata = layout.meta %}
+    {% elsif page.meta.size %}
+      {% assign metadata = page.meta %}
+    {% endif %}
+    {% if metadata.size %}
+      {% include item_metadata.html meta=metadata %}
+    {% endif %}
   </div>
-</div>
 </div>
