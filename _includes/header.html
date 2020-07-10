@@ -1,20 +1,20 @@
-<div class='header container-fluid'>
+<nav class='header container-fluid'>
   <!-- Title -->
-  <div class='header-title'>
-  <span>{{ site.title | newline_to_br }}:</span>
+
+  <span class='header-title'>{{ site.title | newline_to_br }}:</span>
   {% if page.title != "home" %}
-  <span style='color: {% if page.section == "ebola" %}#90CAE1;{% endif %}'>{{page.section}}</span>
+  <span class='header-title' style='color: {% if page.section == "ebola" %}#90CAE1;{% endif %}'>{{page.section}}</span>
   {% endif %}
   <!-- end Title -->
   <!-- Sidebar -->
-  <nav id="drawerSidenav" class="sidenav">
+  <div id="drawerSidenav" class="sidenav justify-content-end">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <a class="menu-item" href="#">Home</a>
-    <a class="menu-item" href="#">Ebola</a>
+    <a class="menu-item" href="{{site.baseurl}}/">Ebola</a>
     <a class="menu-item" href="#">Covid-19</a>
     <a class="menu-item" href="#">About</a>
     <a class="menu-item" href="#">Contact</a>
-  </nav>
+  </div>
   <span class="menu-button" style="cursor:pointer" onclick="openNav()" data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>&#9776; menu</span>
   <!-- End Sidebar -->
-</div>
+</nav>
