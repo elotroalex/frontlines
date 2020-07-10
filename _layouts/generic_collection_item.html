@@ -45,17 +45,11 @@ layout: default
     {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
 
     {{ excerpt | markdownify }}
+
+    <hr>
+
+    <p>{{page.name}} was interviewed for <em>Frontline Nurses</em> by {{page.interviewed_by}} on {{page.interview_date}} in {{page.interview_city}}, {{page.interview_country}}.</p>
     </div>
   </div>
 
-  <div class="row">
-    {% if layout.meta.size %}
-      {% assign metadata = layout.meta %}
-    {% elsif page.meta.size %}
-      {% assign metadata = page.meta %}
-    {% endif %}
-    {% if metadata.size %}
-      {% include item_metadata.html meta=metadata %}
-    {% endif %}
-  </div>
 </div>
