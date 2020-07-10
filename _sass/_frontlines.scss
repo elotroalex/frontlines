@@ -39,8 +39,7 @@ a:hover {
   background-color: $accent-light;
 }
 
-
-.header-title, .menu-button {
+.header-title, .header-subtitle, .menu-button {
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
@@ -48,6 +47,17 @@ a:hover {
   letter-spacing: -0.02em;
 }
 
+#home .header-subtitle {
+  display: none ;
+}
+
+#frontlines_item .header-subtitle {
+  color: $bg-color;
+}
+
+#collection .header-subtitle {
+  color: $accent-light;
+}
 
 
 // Banners
