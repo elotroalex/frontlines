@@ -239,6 +239,7 @@ a.page-title-link:hover {
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
+  filter: drop-shadow(0 0 .75rem $neutral);
 }
 
 .menu-button {
