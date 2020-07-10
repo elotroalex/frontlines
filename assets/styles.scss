@@ -27,32 +27,32 @@ $heading-font:    'basis-grotesque-regular-pro', 'sans-serif';
 
 /* Image Size */
 
-// $thumbnail-height: 140px;
-// $thumbnail-width: 140px;
+$thumbnail-height: 180px;
+$thumbnail-width: 180px;
 
 /* colors */
 
 $text-color:      #000;
-$bg-color:        #90CAE1;
-// $neutral:         #eae7de;
-$accent-light:    #966d09;
-// $accent-dark:     #644906;
+$bg-color:        #fff;
+$neutral:         #eae7de;
+$accent-light:    #90CAE1;
+$accent-dark:     #FF785C;
 
 /* viewport sizes */
 
-// $max-width:       800px;
+$max-width:       800px;
 
 /* margins */
 
-// $less-margin:     1.0rem;
-// $margin:          1.5rem;
-// $more-margin:     2.0rem;
-// $super-margin:    3.0rem;
+$less-margin:     1.0rem;
+$margin:          1.5rem;
+$more-margin:     2.0rem;
+$super-margin:    3.0rem;
 
 
-// $viewer-height:   550px;
-// $parallax-height: 350px;
-// $footer-height:   250px;
+$viewer-height:   550px;
+$parallax-height: 350px;
+$footer-height:   250px;
 
 /*
 font & asset import

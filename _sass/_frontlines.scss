@@ -23,6 +23,10 @@ html, body {
 
 // General
 
+a {
+  color: $accent-dark;
+}
+
 a:hover {
   color: $accent-light;
   text-decoration: none;
@@ -30,6 +34,10 @@ a:hover {
 
 
 // Header 
+
+#home .header, #home .banner {
+  background-color: $accent-light;
+}
 
 
 .header-title, .menu-button {
@@ -40,15 +48,18 @@ a:hover {
   letter-spacing: -0.02em;
 }
 
+
+
 // Banners
+
+#collection .banner {
+  margin-bottom: 8rem;
+}
 
 .banner .row {
   padding-bottom: 1rem;
 }
 
-.page-title {
-  padding-bottom: 18rem;
-}
 
 a.page-title-link, {
   font-size: 185px;
@@ -57,13 +68,20 @@ a.page-title-link, {
   letter-spacing: -0.035em;
   color: $text-color;
   text-decoration: none;
-  margin-left: -0.8rem;
   // border-bottom: 6px solid black;
   // padding-bottom: -2px;
 }
 
-a.page-title-link:hover {
+a.page-title-link.accent-light {
   color: $accent-light;
+}
+
+a.page-title-link:hover {
+  color: $neutral;
+}
+
+.banner-text {
+  padding-top: 18rem;
 }
 
 
@@ -90,6 +108,123 @@ a.page-title-link:hover {
   padding-bottom: 8rem;
 }
 
+// Wax
+
+.wax-inline-container {
+  @extend .container;
+
+  margin: 0 auto;
+  max-width: 90%;
+  width: $max-width;
+  overflow: flex-wrap;
+}
+
+.full-width {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-bottom: $more-margin;
+}
+
+
+.wax-gallery-container {
+  .facet-buttons {
+    .facet {
+      @extend .btn-outline-secondary;
+      margin-right: .5em;
+      margin-top: 1rem;
+      font-family: $heading-font;
+      border-color: $text-color;
+    }
+    .active{
+      @extend .facet;
+      background-color: $text-color;
+      color: $bg-color;
+    }
+  }
+  .wax-gallery {
+    margin: $margin auto;
+    min-height: 30vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+    .gallery-item {
+      padding: 0;
+      margin: .25rem;
+      background-color: #ffffff;
+      max-height: $thumbnail-height;
+      max-width: $thumbnail-width;
+      border: 1px grey solid;
+
+      .gallery-thumb {
+        object-position: 50% 20%;
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+      }
+
+      .hovereffect {
+        width: 100%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        cursor: default;
+
+        &:hover {
+          .overlay {
+            opacity: .7;
+            cursor: pointer;
+            .info {
+              opacity: 1;
+              filter: alpha(opacity=100);
+              -webkit-transform: scale(1);
+              -ms-transform: scale(1);
+              transform: scale(1);
+              // display: none;
+            }
+          }
+        }
+
+        .info {
+          text-decoration: none;
+          font-family: $heading-font !important;
+          color: $text-color !important;
+          background-color: transparent;
+          opacity: 0;
+          filter: alpha(opacity=0);
+          -webkit-transform: scale(0);
+          -ms-transform: scale(0);
+          transform: scale(0);
+          font-weight: normal;
+          overflow: hidden;
+          display: table-cell;
+          vertical-align: middle;
+          padding: 0 $margin 0 $margin;
+        }       
+
+        .overlay {
+          width: 100%;
+          position: absolute;
+          overflow: hidden;
+          top: 0;
+          left: 0;
+          background-color: $accent-light;
+          opacity: 0;
+          -webkit-transition:opacity 0.5s ease-in-out;
+          transition: opacity 0.5s ease-in-out;
+          display: table;
+          height: 200px;
+        }
+      }
+    }
+  }
+}
 // Sidebar
 
 .sidenav {
@@ -126,7 +261,7 @@ a.page-title-link:hover {
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: $accent-light;
 }
 
 .sidenav .closebtn {
@@ -147,6 +282,8 @@ a.page-title-link:hover {
 // Footer
 
 #footer {
+  background-color: $accent-light;
+  width: 100%;
 }
 
 .footer-title {
