@@ -68,10 +68,23 @@ collections:
   frontlines: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'frontlines_item' # the layout for the pages to use
+    section: ebola
     metadata:
       source: 'frontlines.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/frontlines' # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# DEFAULTS
+# -------------------------------------------------------------- 
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "frontlines"
+    values:
+      section: "ebola"
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -94,6 +107,8 @@ search:
           - interview_country
           - interviewed_by
           - biography
+
+
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS

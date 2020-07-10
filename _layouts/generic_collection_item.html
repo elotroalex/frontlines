@@ -2,36 +2,30 @@
 layout: default
 ---
 
-<h2>{{page.name}}</h2>
+<!-- BANNER -->
 
-{% comment %}
-  The block below controls the image viewer
-{% endcomment %}
-
-<h3 alt="{{ page.label }}" class='item-label'>{{ page.label }}</h3>
-
-{% if page.image_viewer %}
-  {% assign viewer = page.image_viewer %}
-{% elsif layout.image_viewer %}
-  {% assign viewer = layout.image_viewer %}
-{% endif %}
-
-{% if viewer %}
-  <div class='item-view'>
-    <span class='pagination-link' id='prevlink'></span>
-    {% if viewer == 'openseadragon' %}
-      {% include osd_iiif_image_viewer.html manifest=page.manifest prevlink=prevlink nextlink=nextlink %}
-    {% else %}
-       {% include simple_image_viewer.html full_image=page.full prevlink=prevlink nextlink=nextlink %}
-    {% endif %}
-    <span class='pagination-link' id='nextlink'></span>
+<div class="banner container-fluid">
+  <div class="row page-title">
+    <div class="col-10">
+      <span class='accent-light' href="#" title="home">{{ page.name | newline_to_br }}</span><br>
+      <span alt="{{ page.title }}" class='person-title'>{{ page.title }}</span>
+    </div>
   </div>
-  {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
-{% endif %}
 
-{% comment %}
-  The block below controls the item metadata table
-{% endcomment %}
+  <div class='person-picture row'>
+    <!-- <span class='pagination-link' id='prevlink'></span> -->
+    <div class='image-fluid col-12 text-center'>
+        <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ page.name | slugify }}' width="40%" />
+    </div>
+    <!-- <span class='pagination-link' id='nextlink'></span> -->
+  </div>
+</div>
+  
+{% comment %}{% include item_pagination.html %}{% endcomment %}
+
+
+<!-- METADATA TABLE -->
+
 
 {% if layout.meta.size %}
   {% assign metadata = layout.meta %}
@@ -44,16 +38,21 @@ layout: default
 
 <hr>
 
-<h3>Soundcloud</h3>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/846950539&color=%2390cae1&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-568440441" title="Kurt" target="_blank" style="color: #cccccc; text-decoration: none;">Kurt</a> · <a href="https://soundcloud.com/user-568440441/n08" title="Dr. Joan Shepherd Interview Excerpts" target="_blank" style="color: #cccccc; text-decoration: none;">Dr. Joan Shepherd Interview Excerpts</a></div>
-
-
+<!-- SOUNDCLOUD -->
+<div class="container">
+  <h3>Soundcloud</h3>
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/846950539&color=%2390cae1&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-568440441" title="Kurt" target="_blank" style="color: #cccccc; text-decoration: none;">Kurt</a> · <a href="https://soundcloud.com/user-568440441/n08" title="Dr. Joan Shepherd Interview Excerpts" target="_blank" style="color: #cccccc; text-decoration: none;">Dr. Joan Shepherd Interview Excerpts</a></div>
+</div>
+<!-- TRANSCRIPTIONS -->
 
 <hr>
 
-<h3>Excerpts</h3>
+<div class="container">
+  <h3>Excerpts</h3>  
 
-{% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}
-{{ excerpt | markdownify }}
+  {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
+
+  {{ excerpt | markdownify }}
+</div>
 
