@@ -31,9 +31,6 @@ a:hover {
 
 // Header 
 
-// .header {
-//   display: block;
-// }
 
 .header-title, .menu-button {
   font-style: normal;
@@ -44,10 +41,6 @@ a:hover {
 }
 
 // Banners
-
-// .banner {
-//   padding: 0px 2% 20px 2%;
-// }
 
 .banner .row {
   padding-bottom: 1rem;
@@ -87,7 +80,15 @@ a.page-title-link:hover {
   }
 }
 
+// Content
 
+.content .row {
+  padding-top: 8rem;
+}
+
+.content {
+  padding-bottom: 8rem;
+}
 
 // Sidebar
 
@@ -144,6 +145,9 @@ a.page-title-link:hover {
 }
 
 // Footer
+
+#footer {
+}
 
 .footer-title {
   font-size: 4rem;
