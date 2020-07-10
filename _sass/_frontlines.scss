@@ -26,9 +26,8 @@ html, body {
 // General
 
 a:hover {
-  color: gray;
+  color: $accent-light;
   text-decoration: none;
-  // border-bottom: 6px solid gray;
 }
 
 
@@ -53,7 +52,7 @@ a:hover {
 // }
 
 .page-title {
-  padding-bottom: 10rem;
+  padding-bottom: 12rem;
 }
 
 a.page-title-link, {
@@ -66,8 +65,10 @@ a.page-title-link, {
   margin-left: -0.8rem;
   // border-bottom: 6px solid black;
   // padding-bottom: -2px;
+}
 
-
+a.page-title-link:hover {
+  color: $accent-light;
 }
 
 
@@ -76,8 +77,8 @@ a.page-title-link, {
 
 .banner-image-right {
   background-position: 36% 51%;
-  height: 500px !important;
-  overflow-x: hidden;
+  height: 33.3rem !important;
+  overflow-y: hidden;
 }
 
   /* For mobile phones: */
