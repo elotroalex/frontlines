@@ -5,4 +5,4 @@ permalink: /ebola/collection/
 section: ebola
 ---
 
-{% include collection_gallery.html collection='frontlines' facet_by='interview_country' %}
+{% include collection_gallery.html collection='ebola' facet_by='interview_country' %}

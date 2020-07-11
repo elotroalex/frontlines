@@ -42,8 +42,11 @@ a:hover {
 
 // Header 
 
-#home .header, #home .banner, #frontlines_item .header, #frontlines_item .banner {
-  background-color: $accent-light;
+#project.ebola .header, 
+#project.ebola .banner, 
+#ebola_item .header, 
+#ebola_item .banner {
+  background-color: $accent-light-blue;
 }
 
 .header-title, .header-subtitle, .menu-button {
@@ -63,7 +66,7 @@ a:hover {
 }
 
 #collection .header-subtitle {
-  color: $accent-light;
+  color: $accent-light-blue;
 }
 
 
@@ -95,8 +98,8 @@ a.page-title-link, {
   // padding-bottom: -2px;
 }
 
-a.page-title-link.accent-light {
-  color: $accent-light;
+a.page-title-link.accent-light-blue {
+  color: $accent-light-blue;
 }
 
 a.page-title-link:hover {
@@ -151,7 +154,7 @@ a.page-title-link:hover {
 }
 
 .question {
-  color: $accent-light;
+  color: $accent-light-blue;
   font-weight: bold;
   font-size: 1.3rem;
 }
@@ -263,7 +266,7 @@ a.page-title-link:hover {
           overflow: hidden;
           top: 0;
           left: 0;
-          background-color: $accent-light;
+          background-color: $accent-light-blue;
           opacity: 0;
           -webkit-transition:opacity 0.5s ease-in-out;
           transition: opacity 0.5s ease-in-out;
@@ -311,7 +314,7 @@ a.page-title-link:hover {
 }
 
 .sidenav a:hover {
-  color: $accent-light;
+  color: $accent-light-blue;
 }
 
 .sidenav .closebtn {
@@ -332,7 +335,7 @@ a.page-title-link:hover {
 // Footer
 
 #footer {
-  background-color: $accent-light;
+  background-color: $accent-light-blue;
   width: 100%;
 }
 
