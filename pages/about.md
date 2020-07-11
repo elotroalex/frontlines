@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Frontline Nurses?
+title: About
 permalink: /about/
 ---
 

@@ -3,7 +3,20 @@ layout: default
 ---
 
 {% unless page.show_title == false %}
-  <h2 class='page-title'>{{ page.title }}</h2>
+<div class="banner container-fluid mb5">
+  <div class="row">
+    <div class="col-md-6">
+        <div class="page-title">
+          <span class='page-title-text'>{{ page.title | newline_to_br }}</span>
+        </div>
+    </div>
+  </div>
+</div>
 {% endunless %}
-
-{{ content }}
+<div class="main container">
+  <div class="row justify-content-md-center">
+    <div class="col-md-8 my5">
+	{{ content }}
+	</div>
+  </div>
+</div>

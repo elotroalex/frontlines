@@ -20,6 +20,7 @@ html, body {
 
 .main.container {
   padding-bottom: 8rem;
+  padding-top: 8rem;
 }
 
 
@@ -149,7 +150,6 @@ a.page-title-text:hover {
 }
 
 .sound-player {
-  margin-top: 8rem;
   margin-bottom: 8rem;
 }
 
@@ -335,7 +335,7 @@ a.page-title-text:hover {
 // Footer
 
 #footer {
-  background-color: $accent-light-blue;
+  // background-color: $accent-light-blue;
   width: 100%;
 }
 
