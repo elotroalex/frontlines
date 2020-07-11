@@ -87,7 +87,7 @@ a:hover {
 }
 
 
-a.page-title-link, {
+span.page-title-text, {
   font-size: 185px;
   line-height: 62%;
   /* or 62% */
@@ -98,11 +98,11 @@ a.page-title-link, {
   // padding-bottom: -2px;
 }
 
-a.page-title-link.accent-light-blue {
+span.page-title-text.accent-light-blue {
   color: $accent-light-blue;
 }
 
-a.page-title-link:hover {
+a.page-title-text:hover {
   color: $neutral;
 }
 

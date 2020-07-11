@@ -2,7 +2,7 @@
   <!-- Title -->
 
   <span class='header-title'>{{ site.title | newline_to_br }}:</span>
-  {% if page.title != "home" %}
+  {% if page.layout != "project" %}
   <span class='header-subtitle'>{{page.section}}</span>
   {% endif %}
   <!-- end Title -->
