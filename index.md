@@ -1,4 +1,6 @@
 ---
-layout: home
-title: Ebola
+layout: default
+title: Home
 ---
+
+[Coming Soon]

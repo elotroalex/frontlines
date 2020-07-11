@@ -65,14 +65,14 @@ kramdown:
 collections:
   exhibits:
     output: true
-  frontlines: # name of collection
+  ebola: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'frontlines_item' # the layout for the pages to use
+    layout: 'ebola_item' # the layout for the pages to use
     section: ebola
     metadata:
-      source: 'frontlines.csv' # path to the metadata file within `_data`
+      source: 'ebola.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/frontlines' # path to the directory of images within `_data`
+      source: 'raw_images/ebola' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # DEFAULTS
