@@ -19,13 +19,14 @@ section: ebola
       <img src="{{site.baseurl}}/img/home.jpg" class="img-fluid" alt="Signs on a city wall">
     </div>
   </div>
-</div>    
+</div>
+    
 <div class='main'>
     <div class='content container'>
     <div class="row justify-content-center">
       <div class="col-md-5">
       <h2><a href="{{site.baseurl}}/ebola/collection/">Oral History from Ebola Nurses</a></h2>
-      <p>The following oral history is the result of a recorded interview with Wilhelmina W.G. Flomo conducted by Annette Mwansa Nkowane on August 15, 2019 in Monrovia, Liberia. This interview was conducted as part of the Columbia University Project, On the Frontlines: Nursing and Midwifery Leadership in Pandemics. The reader is asked to bear in mind that s/he is reading a verbatim transcript of the spoken word, rather than written prose.</p>
+      <p>Read excerpts from the oral histories we conducted with frontline Ebola nurses and midwives in summer 2019, and hear their voices. Right: Adella Combey, a nurse interviewed in Sierra Leone.</p>
       </div>
       <div class="col-md-5">
         <img src="{{site.baseurl}}/img/home-face-a.png">
@@ -33,8 +34,8 @@ section: ebola
     </div>
     <div class="row justify-content-center">
       <div class="col-md-5">
-        <h2>Timeline</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non faucibus sapien. Phasellus et dui a quam lobortis porta. Vestibulum eget lacinia augue. Cras hendrerit velit et mauris sagittis, quis porttitor diam ultrices. Integer massa arcu, congue a risus non, iaculis volutpat neque. Quisque hendrerit ullamcorper leo, vitae bibendum ex ullamcorper non. Cras a mi eu erat consequat eleifend. Quisque massa odio, accumsan vel luctus eget, venenatis eu orci. Nam dignissim ipsum in nulla auctor commodo. Nullam vestibulum luctus massa ut volutpat. Sed a purus ut tortor finibus semper eget convallis velit. Nulla eu consequat tellus, nec elementum mi. Phasellus aliquam finibus mi, id commodo magna semper eu. Aliquam scelerisque lacus eu tellus tempus consequat. Nunc quis lacus fringilla, interdum ante ut, posuere lorem.</p>
+        <h2>Timeline [Coming Soon]</h2>
+        <p>The 2014 Ebola crisis lasted for over two years and spread across West Africa. Guinea, Sierra Leone and Liberia were hit hardest. This timeline tells the story of the outbreak through key dates from those difficult years.</p>
         </div>
         <div class="col-md-5">
         </div>
@@ -42,12 +43,12 @@ section: ebola
     <div class="row justify-content-center">
       <div class="col-md-5">
         <h2><a href="{{site.baseurl}}/ebola/history/">History of the Pandemic</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non faucibus sapien. Phasellus et dui a quam lobortis porta. Vestibulum eget lacinia augue. Cras hendrerit velit et mauris sagittis, quis porttitor diam ultrices. Integer massa arcu, congue a risus non, iaculis volutpat neque. Quisque hendrerit ullamcorper leo, vitae bibendum ex ullamcorper non. Cras a mi eu erat consequat eleifend. Quisque massa odio, accumsan vel luctus eget, venenatis eu orci. Nam dignissim ipsum in nulla auctor commodo. Nullam vestibulum luctus massa ut volutpat. Sed a purus ut tortor finibus semper eget convallis velit. Nulla eu consequat tellus, nec elementum mi. Phasellus aliquam finibus mi, id commodo magna semper eu. Aliquam scelerisque lacus eu tellus tempus consequat. Nunc quis lacus fringilla, interdum ante ut, posuere lorem.</p>
+        <p>Read the history of the epidemic and the region. Learn about important contributing factors during the Ebola crisis itself and the post-Ebola recovery period.</p>
         </div>
         <div class="col-md-5">
           <img src="{{site.baseurl}}/img/home-face-b.png">
         </div>
       </div>
     </div>
-  </div>
 </div>
+
