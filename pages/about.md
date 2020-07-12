@@ -4,14 +4,143 @@ title: About
 permalink: /about/
 ---
 
+*Frontline Nurses: Leaders in Pandemic Response* formed in 2018 to study
+the role of nurses and midwives as change agents in prevention,
+detection, and response to pandemic infectious disease outbreaks. It is
+widely acknowledged that nurses are crucial to combatting pandemics, but
+nurses are generally excluded when municipal, state, and international
+policymakers gather to set protocols and priorities for pandemic
+response. This is a dangerous and consequential omission.
+
+Nurses comprise 70% of the global health workforce, and during
+infectious disease outbreaks they deliver the majority of treatment,
+creating and supporting hygienic standards, devising and implementing
+protocols for infection control, building resilient teams, and working
+with communities on safety measures. Successful containment of epidemic
+outbreaks requires local knowledge and familiarity with how people live,
+and nurses and midwives have the trust of the communities they serve,
+together with a powerful ethical commitment to their work, despite the
+danger and sacrifice it demands.
+
+When the Ebola Virus Disease broke out in western African countries in 2014,
+nurses helped end the outbreak despite a slow international response,
+weak health care infrastructure in the region, and the lack of either
+effective therapies or a vaccine. The work of defeating Ebola happened
+on the frontlines, and it was work driven by nurses.
+
+The failure to incorporate nurses' knowledge is pervasive at all levels
+of healthcare workforce delivery, from the top down. As our interviews
+document, nurses have crucial insights and innovations that derive from
+their hands-on experience. Yet the World Health Organization (WHO), for
+instance, had no role for nurses in its leadership team until 2017. When
+we surveyed international health policy guidelines, we found almost no
+inclusion of nurses. One explanation for this startling absence is that
+80% of nurses in most regions of the world are women, and women continue
+to be strikingly underrepresented in health care leadership roles
+because of both gender bias and the hierarchical, MD-centered
+organization of the health care workforce.[^1]
+
+It is in this context that *Frontline Nurses* works *to document* the
+role of frontline nurses in pandemic disease outbreaks, *to recognize*
+nurses for their critical contribution to public health during
+emergencies, and *to advocate* for nurses' role in health care
+policymaking.
+
+*Frontline Nurses* draws on the work of the health science community --
+nursing, medicine, and public health -- as well as the scholarship on
+health security and regulation and on gender in professional cultures.
+To document the role of nurses, we employ the methodology of oral
+history developed by the Columbia Center for Oral History Research. Our
+group members come from many parts of the world and many different
+backgrounds. Contact us at workinggroup\@frontlinenurses.org.
+
+## Project participants:
+
+*Frontline Nurses: Leaders in Pandemic Response* is a working group
+supported by the Women Creating Change initiative of the Center for the
+Study of Social Difference at Columbia University, in collaboration with
+the Liberian Board of Nursing and Midwifery and the Sierra Leone Nurses
+Association.
+
+Mary Marshall Clark, Senior Research Scientist, INCITE
+(Interdisciplinary Center for Innovative Theory and Empirics and
+Director, Columbia Center for Oral History Research
+
+Jennifer Dohrn, Assistant Dean, Office of Global Initiatives and
+Assistant Professor at Columbia School of Nursing
+
+Wilmot James, Senior Research Scholar, Institute for Social and Economic
+Research and Policy, Columbia University
+
+Susan Michaels-Strasser, Assistant Professor of Epidemiology, Columbia
+University Medical Center
+
+Annette Mwansa Nkowane, Former Technical Officer of Nursing and
+Midwifery, World Health Organization (WHO)
+
+Margaret Loma Phiri, Nursing and Midwifery Advisor, Seed Global
+Health/Malawi
+
+Victoria Rosner, Dean of Academic Affairs, Columbia University School of
+General Studies and Adj. Associate Professor of English and Comparative
+Literature
+
+## Project Coordinators:
+
+Hannah Bender, Columbia College (CC)
+
+Kurt Holuba, Columbia School of General Studies (GS)
+
+Jeremy Orloff, GS
+
+Mina Shah, GS
+
+Research Associate
+
+Erica Anderson, GS
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum euismod, dui id pulvinar pulvinar, odio ipsum euismod purus, eu feugiat tellus nulla sed lorem. Donec et gravida enim, non lacinia sapien. Praesent vestibulum velit non tellus rutrum maximus. Nunc efficitur sollicitudin ipsum non sodales. Phasellus varius erat diam, in imperdiet arcu convallis et. Quisque ac turpis sed mauris gravida mattis. Vivamus semper id quam egestas facilisis. Quisque non arcu lacinia elit pellentesque pretium sed sit amet nisl.
+## Student Associates
 
-Ut finibus quam non nulla pretium pellentesque. Nulla vulputate commodo mi, a bibendum odio commodo at. Morbi ullamcorper, enim vitae aliquet vestibulum, risus ligula dapibus ex, eu lobortis neque ex sed libero. Maecenas vestibulum ullamcorper nibh, at pellentesque nunc dictum ultricies. Suspendisse lacinia sodales tortor, a pharetra erat molestie ut. Donec vel dolor congue, pellentesque augue vitae, suscipit mi. Mauris quis nisl id tortor placerat luctus congue placerat lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod enim lacus, et ultrices nulla lobortis eget. Pellentesque mattis ornare est a eleifend. In vel eleifend tortor. Suspendisse vehicula posuere mi quis consequat. Ut id lacus dui.
+Emma Anderson, GS
 
-Phasellus ultricies feugiat leo eget convallis. Nullam blandit et ligula in iaculis. Phasellus lobortis dui id orci iaculis finibus a a leo. Duis sagittis, nisi eget malesuada volutpat, augue leo commodo lacus, eu dictum dui justo quis nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla eu lacinia diam. Quisque turpis eros, fermentum quis arcu eget, scelerisque venenatis elit. Sed sit amet augue cursus, commodo justo sit amet, pretium nisl. Nullam vel turpis ac magna tincidunt pretium eu id orci.
+Erica Anderson, GS
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis pretium vel tellus quis mattis. Donec varius nunc dolor, id viverra magna pulvinar sit amet. Donec pulvinar lacus massa, et rutrum purus mollis nec. Nunc ullamcorper semper augue. Aenean vulputate libero non orci dapibus, in accumsan metus vehicula. Maecenas auctor pulvinar volutpat. Nunc condimentum, augue a vehicula ultricies, turpis sem gravida dui, non efficitur urna ex ac odio. Nunc lorem sem, vehicula in velit id, ultrices consectetur sapien. Vestibulum viverra leo rutrum ipsum faucibus elementum. Nulla congue leo mi, ac bibendum diam ultricies eget. Pellentesque purus erat, rutrum consequat vulputate eget, malesuada non sem. Etiam congue porttitor sapien, nec pretium odio. Nam consequat est lorem, eu tempus metus consectetur vel. Mauris eu dignissim dolor.
+Emily Bartlett, Columbia School of Nursing (SN)
 
-Nulla gravida vulputate purus sit amet dictum. Nulla aliquam ligula elit, vel gravida enim laoreet ac. Proin eget convallis nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris laoreet enim eget nulla malesuada bibendum. Cras cursus justo at sem pulvinar, eget malesuada arcu ornare. Nam ac lectus ipsum. Mauris venenatis lectus nec ex iaculis convallis. Vivamus lobortis, nisi in feugiat ultrices, turpis tortor tempus purus, eu elementum lacus urna sollicitudin velit. Ut tempor elit at purus porttitor pulvinar. Suspendisse potenti. Suspendisse ut diam vel enim vestibulum aliquet sed non tellus. Curabitur hendrerit nunc dui, et consequat neque iaculis at. Nunc tristique nisi sed maximus feugiat. Praesent gravida nisl sed dapibus eleifend. 
+Lia Mary Farrell, GS
+
+Sarah Gleason, SN
+
+Corie Hahn, GS
+
+Ming Pei, GS
+
+Thomas Peterson, GS
+
+Franci van Ryhn, GS
+
+Maureen Saylor, SN
+
+Katarina Skoko, GS
+
+Lewis Rubin Thompson, GS
+
+Romesh Withanage, GS
+
+## Production
+
+Project Website development by Alex Gil,
+Digital Scholarship Librarian, Columbia University Libraries.
+
+Website design by Channel Studio.
+
+Web hosting and support by Columbia University Libraries. Digital exhibit pages produced using [Wax](https://minicomp.github.io/wax/) by Marii Nyrop. 
+
+
+## Special Thanks
+
+Special thanks to Dolphine Buoga, Ayah Eldosougi, Marianne Hirsch,
+Lorraine Frazier, Cecelia Kpangbala Flomo, Yu-Hui Ferng, Mary Fullah,
+Darboi Korkoyah, Elaine Larson, Nancy K. Miller, Catherine LaSota, Steve
+Nicholas, Joan Shepherd, Mame Toure, Paige West.

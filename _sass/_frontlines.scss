@@ -27,6 +27,18 @@ html, body {
 
 // General
 
+h2 {
+  padding-top: 3rem;
+}
+
+.ebola h2 {
+  color: $accent-light-blue;
+}
+
+h3 {
+  padding-top: 2rem;
+}
+
 p {
   font-size: 1.2rem;
 }
@@ -38,6 +50,18 @@ a {
 a:hover {
   color: $neutral;
   text-decoration: none;
+}
+
+blockquote {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  color: #666;
+  font-size: 1.3rem;
+}
+
+span.attribution {
+  font-size: 1rem;
+  text-align: right;
 }
 
 
@@ -99,7 +123,7 @@ span.page-title-text, {
   // padding-bottom: -2px;
 }
 
-span.page-title-text.accent-light-blue {
+span.page-title-text.accent-light-blue, span.page-title-text.ebola {
   color: $accent-light-blue;
 }
 

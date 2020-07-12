@@ -1,5 +1,5 @@
 ---
-layout: ebola_page
+layout: ebola_collection
 title: Oral Histories
 permalink: /ebola/collection/
 section: ebola

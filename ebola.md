@@ -3,3 +3,51 @@ layout: project
 title: Ebola
 section: ebola
 ---
+
+<div class="banner container-fluid">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="page-title">
+        <span class='page-title-text'>{{ page.title | newline_to_br }}</span>
+      </div>
+      <div class="banner-text">
+           <p>The 2014-16 Ebola outbreak in western African countries was a devastating epidemic in which healthcare workers confronted soaring contagion and mortality.  In summer 2019, a team of nursing and midwifery leaders conducted oral history interviews with a group of frontline Ebola nurses and midwives in Liberia and Sierra Leone. Their stories and insights show the crucial role of nursing leadership in epidemic response and offer essential lessons for health care and policymaking today.</p>
+           <p>Listen to the voices of the nurses and read excerpts from their oral histories.</p>
+         </div>
+    </div>
+    <div class='banner-image-right col-md-6'>
+      <img src="{{site.baseurl}}/img/home.jpg" class="img-fluid" alt="Signs on a city wall">
+    </div>
+  </div>
+</div>    
+<div class='main'>
+    <div class='content container'>
+    <div class="row justify-content-center">
+      <div class="col-md-5">
+      <h2><a href="{{site.baseurl}}/ebola/collection/">Oral History from Ebola Nurses</a></h2>
+      <p>The following oral history is the result of a recorded interview with Wilhelmina W.G. Flomo conducted by Annette Mwansa Nkowane on August 15, 2019 in Monrovia, Liberia. This interview was conducted as part of the Columbia University Project, On the Frontlines: Nursing and Midwifery Leadership in Pandemics. The reader is asked to bear in mind that s/he is reading a verbatim transcript of the spoken word, rather than written prose.</p>
+      </div>
+      <div class="col-md-5">
+        <img src="{{site.baseurl}}/img/home-face-a.png">
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-5">
+        <h2>Timeline</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non faucibus sapien. Phasellus et dui a quam lobortis porta. Vestibulum eget lacinia augue. Cras hendrerit velit et mauris sagittis, quis porttitor diam ultrices. Integer massa arcu, congue a risus non, iaculis volutpat neque. Quisque hendrerit ullamcorper leo, vitae bibendum ex ullamcorper non. Cras a mi eu erat consequat eleifend. Quisque massa odio, accumsan vel luctus eget, venenatis eu orci. Nam dignissim ipsum in nulla auctor commodo. Nullam vestibulum luctus massa ut volutpat. Sed a purus ut tortor finibus semper eget convallis velit. Nulla eu consequat tellus, nec elementum mi. Phasellus aliquam finibus mi, id commodo magna semper eu. Aliquam scelerisque lacus eu tellus tempus consequat. Nunc quis lacus fringilla, interdum ante ut, posuere lorem.</p>
+        </div>
+        <div class="col-md-5">
+        </div>
+      </div>
+    <div class="row justify-content-center">
+      <div class="col-md-5">
+        <h2><a href="{{site.baseurl}}/ebola/history/">History of the Pandemic</a></h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non faucibus sapien. Phasellus et dui a quam lobortis porta. Vestibulum eget lacinia augue. Cras hendrerit velit et mauris sagittis, quis porttitor diam ultrices. Integer massa arcu, congue a risus non, iaculis volutpat neque. Quisque hendrerit ullamcorper leo, vitae bibendum ex ullamcorper non. Cras a mi eu erat consequat eleifend. Quisque massa odio, accumsan vel luctus eget, venenatis eu orci. Nam dignissim ipsum in nulla auctor commodo. Nullam vestibulum luctus massa ut volutpat. Sed a purus ut tortor finibus semper eget convallis velit. Nulla eu consequat tellus, nec elementum mi. Phasellus aliquam finibus mi, id commodo magna semper eu. Aliquam scelerisque lacus eu tellus tempus consequat. Nunc quis lacus fringilla, interdum ante ut, posuere lorem.</p>
+        </div>
+        <div class="col-md-5">
+          <img src="{{site.baseurl}}/img/home-face-b.png">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
