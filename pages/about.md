@@ -64,7 +64,7 @@ Association.
 
 Mary Marshall Clark, Senior Research Scientist, INCITE
 (Interdisciplinary Center for Innovative Theory and Empirics and
-Director, Columbia Center for Oral History Research
+Director), Columbia Center for Oral History Research
 
 Jennifer Dohrn, Assistant Dean, Office of Global Initiatives and
 Assistant Professor at Columbia School of Nursing
@@ -95,10 +95,9 @@ Jeremy Orloff, GS
 
 Mina Shah, GS
 
-Research Associate
+## Research Associate
 
 Erica Anderson, GS
-
 
 ## Student Associates
 
