@@ -35,7 +35,7 @@ section: ebola
     <div class="row justify-content-center">
       <div class="col-md-5">
         <h2>Timeline [Coming Soon]</h2>
-        <p>The 2014 Ebola crisis lasted for over two years and spread across West Africa. Guinea, Sierra Leone and Liberia were hit hardest. This timeline tells the story of the outbreak through key dates from those difficult years.</p>
+        <p>The 2014 Ebola crisis lasted for over two years and spread across West Africa. Guinea, Sierra Leone, and Liberia were hit hardest. This timeline tells the story of the outbreak through key dates from those difficult years.</p>
         </div>
         <div class="col-md-5">
         </div>
