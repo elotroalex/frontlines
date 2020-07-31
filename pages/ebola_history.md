@@ -19,7 +19,7 @@ crisis.[^3]
 
 The oral histories collected in this project contain the recommendations
 and wisdom of frontline nurses and midwives who cared for the sick in
-one of most deadly global health disasters in modern times. This essay
+one of the deadliest global health disasters in modern times. This essay
 seeks to contextualize those recommendations within the history of the
 region and the specific virulence of this disease, and to explore the
 diverse factors that contributed to the spread of the disease.[^4]
@@ -36,7 +36,7 @@ When the Ebola outbreak struck Liberia and Sierra Leone in 2014, the
 countries were still facing the aftermath of years of civil war and
 armed conflict that left the populations of both countries with weakened
 infrastructure and damaged faith in their respective governments. In
-Liberia, a violent military coup sparked the first civil war. The
+Liberia, a military coup sparked the first civil war. The
 conflict took place from 1989 to 1997, leading to the deaths
 approximately 250,000 people[^5] and displacing a further 750,000. A
 second civil war broke out in 1999, further destabilizing the region.
@@ -457,7 +457,7 @@ was reduced after the crisis.[^82]
 
 ---
 
-Thomas Peterson, Erica Andersen, and Ming Pei; adapted in part from the work of Hannah Bender.
+Erica Andersen, Ming Pei, and Thomas Peterson; adapted in part from the work of Hannah Bender.
 
 ---
 
