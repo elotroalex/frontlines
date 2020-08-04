@@ -130,12 +130,12 @@ Romesh Withanage, GS
 
 ## Production
 
-Project Website development by Alex Gil,
+Architecture and development by Alex Gil,
 Digital Scholarship Librarian, Columbia University Libraries.
 
-Website design by Channel Studio.
+Design by Channel Studio.
 
-Web hosting and support by Columbia University Libraries. Digital exhibit pages produced using [Wax](https://minicomp.github.io/wax/) by Marii Nyrop. 
+Hosting and support by Columbia University Libraries. Digital exhibit pages produced using [Wax](https://minicomp.github.io/wax/) by Marii Nyrop. 
 
 
 ## Special Thanks

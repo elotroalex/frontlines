@@ -23,6 +23,18 @@ html, body {
   padding-top: 8rem;
 }
 
+.home .header-title {
+  font-size: 14rem;
+  width: 80%;
+  display: inline-block;
+  line-height: .8;
+  margin-left: -1.5vw;
+}
+
+.home .page-subtitle {
+  font-size: 2rem;
+}
+
 
 
 // General
@@ -70,8 +82,15 @@ span.attribution {
 #project.ebola .header, 
 #project.ebola .banner, 
 #ebola_item .header, 
-#ebola_item .banner {
+#ebola_item .banner, .banner.ebola {
   background-color: $accent-light-blue;
+}
+
+#project.covid .header, 
+#project.covid .banner, 
+#covid_item .header, 
+#covid_item .banner, .banner.covid {
+  background-color: $accent-light-sepia;
 }
 
 .header-title, .header-subtitle, .menu-button {
@@ -81,6 +100,21 @@ span.attribution {
   /* identical to box height */
   letter-spacing: -0.02em;
 }
+
+.banner.covid, .banner.ebola {
+  a {
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: underline;
+  }
+}
+
+.body-header {
+  font-size: 8rem;
+  margin-bottom: 2rem;
+  margin-left: -.8vw;
+}
+
 
 #home .header-subtitle {
   display: none ;

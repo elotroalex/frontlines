@@ -8,7 +8,10 @@ section: ebola
 
 <div class="collection-intro row justify-content-md-center">
     <div class="my-5 col-8">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In faucibus mauris et turpis consectetur laoreet. Pellentesque vel est laoreet nunc lacinia hendrerit eget sit amet nisl. Etiam ac velit tellus. Etiam libero felis, tristique sed odio quis, efficitur fringilla ligula. Suspendisse potenti. Maecenas nisl nisl, scelerisque ac felis quis, sodales gravida libero. Curabitur scelerisque volutpat augue, nec hendrerit neque efficitur a. Curabitur pellentesque, est in sollicitudin tempor, turpis diam porta justo, ultricies pretium lectus sapien non ipsum. Proin faucibus ante nec massa pretium, vitae auctor magna luctus. Fusce id magna egestas, facilisis leo a, viverra metus. Duis pharetra varius sollicitudin. Fusce convallis a nibh sit amet bibendum. Suspendisse placerat lacus vitae metus porttitor venenatis. </p>
+
+        <p>In summer 2019, members of our working group traveled from around the world to Freetown, Sierra Leone and Monrovia, Liberia to meet one-on-one with nurses and midwives who were on the frontlines of the response to the Ebola Virus Disease outbreak in 2014. Using an oral history protocol developed in collaboration with the Columbia Center for Oral History Research, our interviews covered topics including infection prevention and control, health emergency response, gender and family, nursing as a vocation, community engagement, trauma and grief, and much more. The interviews were recorded, and subsequently transcribed and audited.</p>
+        <p>These extraordinary stories offer a first-hand account of what it means to be a frontline healthcare provider during a dangerous disease outbreak, including critical insights for future planning.</p>
+        <p>Click on each profile to read and listen to excerpts from the interviews. </p>
     </div>
 </div>
 
