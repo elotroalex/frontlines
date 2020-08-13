@@ -52,7 +52,7 @@ health security and regulation and on gender in professional cultures.
 To document the role of nurses, we employ the methodology of oral
 history developed by the Columbia Center for Oral History Research. Our
 group members come from many parts of the world and many different
-backgrounds. Contact us at workinggroup\@frontlinenurses.org.
+backgrounds. Contact us at frontlinenurses@gmail.com.
 
 ## Project participants:
 
