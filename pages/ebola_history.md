@@ -10,7 +10,7 @@ in scale swept through West Africa. As the largest Ebola outbreak in
 history and the first to affect urban areas[^1], the epidemic quickly
 spread across multiple international borders and became a major global
 health emergency. A total of 28,616 confirmed and suspected Ebola cases
-were recorded in Guinea, Liberia and Sierra Leone, and the disease
+were recorded in Guinea, Liberia, and Sierra Leone, and the disease
 resulted in at least 11,310 deaths in those countries.[^2] The
 devastation caused by the virus sparked widespread fear throughout West
 Africa, while numerous factors including cultural practices and
