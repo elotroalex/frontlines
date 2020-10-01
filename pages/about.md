@@ -38,7 +38,7 @@ inclusion of nurses. One explanation for this startling absence is that
 80% of nurses in most regions of the world are women, and women continue
 to be strikingly underrepresented in health care leadership roles
 because of both gender bias and the hierarchical, MD-centered
-organization of the health care workforce.[^1]
+organization of the health care workforce.
 
 It is in this context that *Frontline Nurses* works *to document* the
 role of frontline nurses in pandemic disease outbreaks, *to recognize*
