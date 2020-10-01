@@ -87,7 +87,7 @@ Of the various community practices that conflicted with measures aiming
 to curb the spread of Ebola, funeral rites and burial practices proved
 especially problematic. Common West African burial practices include
 cleaning a corpse with water which other mourners might touch and sleep
-near.[^13]^,^[^14] The Ministry of Health in Guinea estimated that
+near.[^13], [^14] The Ministry of Health in Guinea estimated that
 around 60% of Ebola cases there were tied to such practices. Women, the
 principal caregivers and mourners, were disproportionately
 affected.[^15] In Sierra Leone, WHO staff implicated burial and mourning
@@ -235,7 +235,7 @@ patients.
 
 During the Ebola outbreak, access to routine healthcare resources was
 severely limited. For women, this resulted in increased maternal
-mortality and complications[^45]^,^[^46] and restricted access to
+mortality and complications[^45], [^46] and restricted access to
 contraception.[^47] Girls orphaned by the disease were more likely to
 face child marriage and sexual exploitation.[^48]
 
@@ -265,7 +265,7 @@ otherwise preventable diseases.[^50]
 Available data suggest that women who contract Ebola while pregnant face
 a higher risk of death and will almost certainly lose their child. There
 are isolated reports of infants born to mothers with Ebola who survived,
-but such instances are extremely rare.[^51]^,^[^52] Estimations of
+but such instances are extremely rare.[^51], [^52] Estimations of
 maternal mortality for women with Ebola range from 74-100%, and average
 around 86%.[^53]
 
