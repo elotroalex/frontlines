@@ -686,7 +686,7 @@ body ::-webkit-scrollbar {
 }
 
 .flex-wrap {
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 .items-start {
@@ -765,6 +765,10 @@ body ::-webkit-scrollbar {
 @media (min-width:768px) {
     .absolute-md {
         position: absolute
+    }
+
+    div.mt6 {
+      margin-top: 6rem;
     }
 }
 
@@ -1216,4 +1220,6 @@ body p+p {
         max-width: 43.125rem
     }
 }
+
+
 
