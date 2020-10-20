@@ -516,53 +516,6 @@ body ::-webkit-scrollbar {
     background: transparent
 }
 
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Regular.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Regular.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Regular.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Regular.woff) format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Italic.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Italic.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Italic.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Italic.woff) format("woff");
-    font-weight: 400;
-    font-style: italic
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Light.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Light.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Light.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Light.woff) format("woff");
-    font-weight: 300;
-    font-style: normal
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-LightItalic.eot);
-    src: url(/static/fonts/BasisGrotesquePro-LightItalic.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-LightItalic.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-LightItalic.woff) format("woff");
-    font-weight: 300;
-    font-style: italic
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Bold.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Bold.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Bold.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Bold.woff) format("woff");
-    font-weight: 700;
-    font-style: normal
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-BoldItalic.eot);
-    src: url(/static/fonts/BasisGrotesquePro-BoldItalic.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-BoldItalic.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-BoldItalic.woff) format("woff");
-    font-weight: 700;
-    font-style: italic
-}
 
 .debug-mode-active body {
     outline: 1px solid #2980b9 !important
@@ -945,7 +898,7 @@ body ::-webkit-scrollbar {
 
 .body-copy,
 body {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-size: 1.125rem;
     line-height: 1.5;
     font-weight: 400;
@@ -965,7 +918,7 @@ body p+p {
 
 .body-header,
 .page-header {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400;
     letter-spacing: -.4vw
 }
@@ -981,7 +934,7 @@ body p+p {
 }
 
 .section-header {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400;
     font-size: 1.5625rem;
     line-height: 1.25
@@ -994,7 +947,7 @@ body p+p {
 }
 
 .project-header {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400;
     font-size: 1.5625rem;
     line-height: 1.25
@@ -1013,7 +966,7 @@ body p+p {
 }
 
 .rich-text p {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-size: 1.125rem;
     font-weight: 400;
     line-height: 1.5
@@ -1031,7 +984,7 @@ body p+p {
 
 .rich-text h1,
 .rich-text h2 {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400
 }
 
@@ -1086,7 +1039,7 @@ body p+p {
 }
 
 .Nav {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     line-height: 1;
     top: 0;
     left: 100%;
