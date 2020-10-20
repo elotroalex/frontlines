@@ -1,11 +1,14 @@
-<nav class='header container-fluid'>
-  <!-- Title -->
 
+<!-- Header -->
+<header>
   <span class='header-title'>{{ site.title | newline_to_br }}</span>
 
   {% if page.layout != "project" and page.section != "home" %}
   <span class='header-subtitle'>: {{page.section}}</span>
   {% endif %}
-  <!-- end Title -->
+</header>
+
+<!-- Nav bar -->
+<nav class='header container-fluid'>
   {% include sidebar.html %}
 </nav>
