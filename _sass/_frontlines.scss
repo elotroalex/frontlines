@@ -395,11 +395,16 @@ a.page-title-text:hover {
 #footer {
   // background-color: $accent-light-blue;
   width: 100%;
+  padding-top: 4rem;
 }
 
 .footer-title {
-  font-size: 4rem;
+  font-size: 6rem;
   letter-spacing: -0.035em;
+}
+
+.footer-rights {
+  font-size: 1rem;
 }
 
 @media (max-width:1024px) {
