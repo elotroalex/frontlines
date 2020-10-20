@@ -51,6 +51,11 @@ h3 {
   padding-top: 2rem;
 }
 
+h4.body-header-sub {
+  font-size: 2vw;
+  margin-bottom: -1vw;
+}
+
 p {
   font-size: 1.2rem;
 }
@@ -124,7 +129,7 @@ span.attribution {
   color: $bg-color;
 }
 
-#collection .header-subtitle {
+h3.accent-light-blue {
   color: $accent-light-blue;
 }
 
@@ -187,6 +192,12 @@ a.page-title-text:hover {
   left: 50%;
   margin-left: -3px;
   margin-top: -4rem;
+}
+
+@media (min-width: 780px) {
+  .collection-intro {
+    margin-top: 4rem;
+  }
 }
 
   /* For mobile phones: */
@@ -405,6 +416,14 @@ a.page-title-text:hover {
 
 .footer-rights {
   font-size: 1rem;
+}
+
+.page-header {
+  margin-top: -1.4rem;
+}
+
+.expanded-menu {
+  font-size: 1.6rem;
 }
 
 @media (max-width:1024px) {
@@ -1033,7 +1052,10 @@ body p+p {
 }
 
 .Header__menu-item {
-    display: inline-block
+    display: inline-block;
+    position: fixed;
+    right: 20px;
+    z-index: 1;
 }
 
 .Header__menu-item a,
