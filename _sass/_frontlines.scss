@@ -402,6 +402,13 @@ a.page-title-text:hover {
   letter-spacing: -0.035em;
 }
 
+@media (max-width:1024px) {
+      .expanded-menu {
+      display: none;
+    }  
+}
+
+
 // Channel
 
 a,
@@ -730,6 +737,7 @@ body ::-webkit-scrollbar {
     .h-50-md {
         height: 50vh
     }
+
 }
 
 @media (min-width:1024px) {
