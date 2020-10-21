@@ -4,22 +4,25 @@ layout: default
 
 <!-- BANNER -->
 
-<div class="banner container-fluid">
-  <div class="row page-title">
-    <div class="col-10">
-      <span class='accent-light person-name' href="#" title="home">{{ page.name | newline_to_br }}</span><br>
-      <span alt="{{ page.title }}" class='person-title'>{{ page.title }}</span>
-    </div>
-  </div>
 
-  <div class='person-picture row'>
-    <!-- <span class='pagination-link' id='prevlink'></span> -->
-    <div class='image-fluid col-12 text-center'>
-        <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ page.name | slugify }}' width="40%" />
-    </div>
-    <!-- <span class='pagination-link' id='nextlink'></span> -->
+<section class="Card h-a mh-100-md relative flex flex-column Card--blue banner container-fluid" style="background-color:#90CAE1">
+  <div class="flex flex-auto flex-column flex-row-lg relative Card__inner w-100 pa3 row page-title">
+      <div class="Card__title relative absolute-md ma3-md col-10">
+        <h4 class="body-header-sub">Frontline Nurses:</h4>
+        <h3 class="body-header nurse-name dib">{{ page.name | newline_to_br }}</h3><br>
+        <span alt="{{ page.title }}" class='person-title'>{{ page.title }}</span>
+      </div>
+
+      <div class='person-picture row flex items-start items-end-md h-a h-50-md h-a-lg w-100 mt6 mt0-md'>
+        <div class='mr3 image-fluid col-12 text-center'>
+          <img class='item-full-image' src='{{ page.full | absolute_url }}' alt='{{ page.name | slugify }}' width="40%" />
+        </div>
+      </div>
   </div>
-</div>
+</section>
+
+
+
 
 <div class="vl"></div>
   

@@ -223,9 +223,9 @@ a.page-title-text:hover {
 }
 
 .question {
-  color: $accent-light-blue;
-  font-weight: bold;
-  font-size: 1.3rem;
+  // color: $accent-light-blue;
+  font-weight: 300;
+  font-size: 1.4rem;
 }
 // Wax
 
@@ -951,6 +951,11 @@ body p+p {
     font-size: 12vw;
     line-height: 1;
     border-bottom: .15625vw solid #000
+}
+
+.body-header.nurse-name {
+  font-size: 8vw;
+  margin-bottom: .6rem;
 }
 
 .body-header.no-underline {
