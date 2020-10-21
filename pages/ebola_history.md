@@ -5,6 +5,8 @@ title: History
 section: ebola
 ---
 
+## Introduction
+
 From 2014 through 2016, an epidemic of Ebola virus disease unprecedented
 in scale swept through West Africa. As the largest Ebola outbreak in
 history and the first to affect urban areas[^1], the epidemic quickly

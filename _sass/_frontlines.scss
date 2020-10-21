@@ -44,11 +44,26 @@ h2 {
 }
 
 .ebola h2 {
-  color: $accent-light-blue;
+  font-weight: 300;
+  font-size: 1.8rem;
 }
+
+
+
+@media (min-width: 780px) {
+  .main {
+  margin-top: 4rem;
+  }
+}
+
 
 h3 {
   padding-top: 2rem;
+}
+
+.ebola div.main h3 {
+  font-weight: 300;
+  font-size: 1.4rem;
 }
 
 h4.body-header-sub {
@@ -74,6 +89,7 @@ blockquote {
   padding-right: 3rem;
   color: #666;
   font-size: 1.3rem;
+  margin-top: 1.3rem;
 }
 
 span.attribution {
