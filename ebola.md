@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ebola
-section: ebola
+section: Ebola
 ---
 
 <section class="Card h-a mh-100-md relative flex flex-column Card--blue" style="background-color:#90CAE1">

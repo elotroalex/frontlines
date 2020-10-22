@@ -2,7 +2,7 @@
 layout: page
 permalink: /ebola/history/
 title: History
-section: ebola
+section: Ebola
 ---
 
 ## Introduction

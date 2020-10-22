@@ -2,7 +2,7 @@
 layout: page
 title: Timeline
 permalink: /ebola/timeline/
-section: ebola
+section: Ebola
 ---
 
 ## Ebola Outbreak Timeline
