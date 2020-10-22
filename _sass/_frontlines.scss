@@ -67,7 +67,7 @@ h3 {
 }
 
 h4.body-header-sub {
-  font-size: 2vw;
+  font-size: 3vw;
   margin-bottom: -1vw;
 }
 
@@ -164,6 +164,16 @@ h3.accent-light-blue {
   font-size: 90px;
   letter-spacing: -0.035em;
   line-height: 62%;
+}
+
+.person-title {
+  font-size: 2vh;
+}
+
+@media (min-width: 780px) {
+  .person-title {
+    font-size: 3vh;
+  }
 }
 
 
