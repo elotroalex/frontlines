@@ -72,6 +72,20 @@ further limited access to resources in these areas.[^8]
 > or sometimes even a week without food or without even other things,
 > because you're not able to leave the ward... for fear you will be seen
 > and attacked." --- Elizabeth K. Lemor; nurse midwife and Directorate of Training, Sierra Leone Ministry of Health (as of August 2019)
+> 
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history02.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+  <div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.nationsonline.org/oneworld/map/sierra_leone_map.htm">Nations Online Project (2017). Administrative Map of Sierra Leone.</a>
+    </div>
+  </div>
+  
+</div>
 
 ### Movement Among and Across Populations
 
@@ -82,6 +96,19 @@ advantage, and the ability to migrate with ease retains social
 value.[^9] Women in particular often cross borders to trade in city
 markets, bringing them in contact with strangers at a rate
 disproportionate to the men of the region.[^10]
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history03.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+  <div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.nationsonline.org/oneworld/map/sierra_leone_map.htm">Nations Online Project (2017). Administrative Map of Guinea.</a>
+    </div>
+  </div>
+  
+</div>
 
 High population mobility created significant challenges in controlling
 the spread of Ebola, and impeded contact tracing, especially in rural
@@ -109,6 +136,19 @@ principal caregivers and mourners, were disproportionately
 affected.[^15] In Sierra Leone, WHO staff implicated burial and mourning
 practices in 80% of cases.[^16]
 
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history04.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+  <div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.flickr.com/photos/un_photo/16094192880/in/photostream/">Perret, Martine (2014). “Scene from Ebola Treatment Centre in Port Loko, Sierra Leone.” UN Photo.</a>
+    </div>
+  </div>
+  
+</div>
+
 As with many communities around the world, the burial of the deceased in
 unmarked graves, often with multiple bodies in the same grave, violated
 community norms.[^17] Burials performed by military personnel were often
@@ -128,6 +168,22 @@ relatives in secret.[^21]
 > leadership, the government, we all were wicked people...it was
 > traumatizing for even us. Yes, it was traumatizing for all of us. We
 > had to do what we had to do." --- Mawah Kamara Verdier; registered nurse in Monrovia, Liberia and treasurer of the Liberian Nurses Association (as of August 2019)
+> 
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history05.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.zocalopublicsquare.org/2017/12/15/struggle-report-ebola-without-provoking-panic-complacency/ideas/essay/">Paye-Layleh, Jonathan (2014). “Newspaper headlines focusing on Ebola, displayed in the capital city of Monrovia, Liberia.” Associated Press.</a>
+    </div>
+  </div>
+  
+</div>
+
+
 
 ### The Virulence and Denial of Ebola
 
@@ -139,6 +195,19 @@ contact with the bodily fluids (including blood, saliva, feces, and
 vomit) of an infected person or an object that has been contaminated
 with such fluids. The 2014 -- 2016 West African epidemic in Guinea,
 Sierra Leone, and Liberia was the largest Ebola outbreak to date.
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history06.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.flickr.com/photos/unmeer/16409798375/">Perret, Martine (2015). “A nurse is sprayed with chlorine solution to decrease the risk when taking off the Personal Protective Equipment (PPE) in an Ebola Treatment Unit (ETU) in Sinje, Grand Cape Mount, Liberia.” UNMEER. </a>
+    </div>
+  </div>
+  
+</div>
 
 Though asymptomatic transmission is not thought to occur,[^22] Ebola
 mimics other common infectious diseases such as malaria, cholera, and
@@ -176,6 +245,19 @@ of the medical community,[^33] while quarantine and other measures aimed
 at curbing the spread of the virus strained social bonds.[^34] Some
 frontline healthcare[^35] and aid[^36] workers faced hostility even as
 outreach campaigns worked to combat suspicion with awareness.[^37]
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history07.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.flickr.com/photos/unmeer/16080063162/">Gaitanis, Ari (2014). “Ebola workers in a facility run by Médecins Sans Frontières (MSF) in Gueckedou, Guinea.” UMEER.</a>
+    </div>
+  </div>
+  
+</div>
 
 The first Ebola vaccine was approved in late 2019. Clinical trials
 conducted in West Africa during the epidemic supported the approval of
@@ -285,6 +367,19 @@ but such instances are extremely rare.[^51], [^52] Estimations of
 maternal mortality for women with Ebola range from 74-100%, and average
 around 86%.[^53]
 
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history08.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://en.wikipedia.org/wiki/Connaught_Hospital#/media/File:Connaught_Hospital_-_on_the_frontline_of_Ebola_in_Freetown,_Sierra_Leone.jpg">Davis, Simon and DFID - UK Department for International Development (2015). <em>Connaught Hospital - on the frontline of Ebola in Freetown, Sierra Leone.</em></a>
+    </div>
+  </div>
+  
+</div>
+
 In West African countries, the percentage of deliveries attended by
 skilled healthcare workers decreased during the epidemic.[^54]
 Healthcare facilities closed and healthcare workers died, straining
@@ -345,6 +440,19 @@ slowed. The CDC estimated that due to reduced services, 10,600 more
 people died from HIV, tuberculosis, and malaria in Guinea, Liberia, and
 Sierra Leone than during a comparable period before the outbreak.[^63]
 
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history09.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://pulitzercenter.org/reporting/sierra-leone-frontline-health-workers-were-sidelined-33bn-fight-against-ebola#slideshow-7">Maxmen, Amy. Caption: Hazard pay help desk phone numbers in Freetown. When the lines were called, all three were shut off. (2015). Pulitzer Center. </a>
+    </div>
+  </div>
+  
+</div>
+
 Women seeking maternal care had the greatest difficulty accessing health
 services. Despite the concentration of resources in urban areas, the
 disease had a disproportionate effect on the ability of urban residents
@@ -375,6 +483,19 @@ declared Ebola-free for the second time. On June 1, 2016, Guinea
 declared Ebola-free for the second time. On March 29^th^, 2016, the WHO
 declared the end of the Public Health Emergency of International
 Concern.[^65]
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history10.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.who.int/features/2014/life-after-ebola/en/">[Ebola Banner in Guinea] (2014). WHO/RTG.</a>
+    </div>
+  </div>
+  
+</div>
 
 There continue to be lasting effects on the region due to the crisis.
 The loss of healthcare workers resulted in a shortage of healthcare
@@ -411,6 +532,20 @@ presents an ongoing challenge to continued implementation of such
 measures. Regular use of IPC also requires a shift of norms within
 healthcare institutions where such practices were not previously
 common.[^71]
+
+
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history11.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+<div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.who.int/csr/disease/ebola/health-systems-recovery/ipc/en/">Gborie, S. WHO.</a>
+    </div>
+  </div>
+  
+</div>
 
 Sierra Leone and Liberia have both since increased the number of
 facilities that meet IPC standards and employ staff trained in IPC.

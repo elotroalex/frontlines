@@ -1235,3 +1235,50 @@ h2 {
   font-size: 2rem;
   font-weight: 300;
 }
+
+h3 {
+  padding-top: 1rem;
+  margin-top: 1rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+
+// Wax Parallax
+
+.wax-parallax.inline-parallax {
+  margin-top: $more-margin;
+}
+
+.wax-parallax.top-banner {
+
+}
+
+.wax-parallax {
+
+  .parallax-image {
+    background-color: $neutral;
+    width: 100vw;
+    height: $parallax-height;
+    max-height: 55vh;
+    margin: 0;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .parallax-caption {
+    margin: 0 auto;
+    width: 100vw;
+    background-color: #F5F5F5;
+    padding: $less-margin 0;
+    a {
+      color: $accent-light-blue;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: $accent-dark;
+    }
+  }
+}
