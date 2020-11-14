@@ -21,6 +21,8 @@ html, body {
 .main.container {
   padding-bottom: 6rem;
   padding-top: 6rem;
+  margin-top: 6rem;
+
 }
 
 .home .header-title {
@@ -39,14 +41,7 @@ html, body {
 
 // General
 
-h2 {
-  padding-top: 3rem;
-}
 
-.ebola h2 {
-  font-weight: 300;
-  font-size: 1.8rem;
-}
 
 
 
@@ -1234,3 +1229,9 @@ body p+p {
 
 
 
+h2 {
+  padding-top: 3rem;
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-weight: 300;
+}

@@ -49,6 +49,20 @@ human rights violations in the country's contemporary history.[^7] In
 2001, the UN intervened to disarm all warring factions. After eleven
 years, the war finally ended in 2002.
 
+<div class="wax-parallax full-width inline-parallax">
+  <div class="parallax-image" style="background-image: url('{{site.baseurl}}/img/history/history01.jpg');
+  background-position: 0% 50%;"></div>
+
+  
+  <div class="parallax-caption">
+    <div class="wax-inline-container">
+      Above: <a href="https://www.nationsonline.org/oneworld/map/liberia-administrative-map.htm">Nations Online Project (2017). Administrative Map of Liberia.</a>
+    </div>
+  </div>
+  
+</div>
+
+
 The destruction from these civil wars caused widespread damage to
 infrastructure, which affected rural areas disproportionately and
 further limited access to resources in these areas.[^8]
