@@ -142,6 +142,6 @@ Hosting and support by Columbia University Libraries. Digital exhibit pages prod
 ## Special Thanks
 
 Special thanks to Dolphine Buoga, Ayah Eldosougi, Marianne Hirsch,
-Lorraine Frazier, Cecelia Kpangbala Flomo, Yu-Hui Ferng, Mary Fullah,
+Lorraine Frazier, Cecelia C. Kpangbala Flomo, Yu-Hui Ferng, Mary Fullah,
 Darboi Korkoyah, Elaine Larson, Nancy K. Miller, Catherine LaSota, Steve
 Nicholas, Joan Shepherd, Mame Toure, Paige West.
