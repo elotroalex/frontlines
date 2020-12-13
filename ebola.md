@@ -49,7 +49,7 @@ section: Ebola
         <div class="Project__image w-100 w-40-lg mt6 mt0-lg">
             <figure>
                 <picture>
-                    <source srcSet="//images.ctfassets.net/0j7k3rz20xse/7zL45abCwmOuRdsbCT8Zdq/ed9601dcc466dc43567d2c5cdb4cb0be/nurse.jpg?w=480&amp;fm=jpg&amp;fl=progressive&amp;q=70" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="//images.ctfassets.net/0j7k3rz20xse/7zL45abCwmOuRdsbCT8Zdq/ed9601dcc466dc43567d2c5cdb4cb0be/nurse.jpg?w=900&amp;fm=jpg&amp;fl=progressive&amp;q=70" alt="Wilhelmina W.G. Flomo" /></picture>
+                    <source srcSet="//images.ctfassets.net/0j7k3rz20xse/7zL45abCwmOuRdsbCT8Zdq/ed9601dcc466dc43567d2c5cdb4cb0be/nurse.jpg?w=480&amp;fm=jpg&amp;fl=progressive&amp;q=70" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="{{site.baseurl}}/img/home-face-a.png" alt="Wilhelmina W.G. Flomo" /></picture>
             </figure>
         </div>
     </section>
@@ -59,6 +59,12 @@ section: Ebola
             <div class="Project__description mt5 mr6-lg rich-text">
                 <p>The 2014 Ebola crisis lasted for over two years and spread across West Africa. Guinea, Sierra Leone, and Liberia were hit hardest. This timeline tells the story of the outbreak through key dates from those difficult years.</p>
             </div>
+        </div>
+        <div class="Project__image w-100 w-40-lg mt6 mt0-lg">
+            <figure>
+                <picture>
+                    <source srcSet="{{site.baseurl}}/img/home-face-b.png" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="{{site.baseurl}}/img/home-face-b.png" alt="Doctor" /></picture>
+            </figure>
         </div>
     </section>
     <section class="Project__component flex flex-column justify-between flex-row-lg mt6 mt8-lg">
@@ -71,7 +77,7 @@ section: Ebola
         <div class="Project__image w-100 w-40-lg mt6 mt0-lg">
             <figure>
                 <picture>
-                    <source srcSet="//images.ctfassets.net/0j7k3rz20xse/6ebqdzBg7XzSC69dtVTw9D/f29a9acd189fbfc28dc0646b9b2cbf3c/DSC_0055_1.jpg?w=480&amp;fm=jpg&amp;fl=progressive&amp;q=70" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="//images.ctfassets.net/0j7k3rz20xse/6ebqdzBg7XzSC69dtVTw9D/f29a9acd189fbfc28dc0646b9b2cbf3c/DSC_0055_1.jpg?w=900&amp;fm=jpg&amp;fl=progressive&amp;q=70" alt="Doctor" /></picture>
+                    <source srcSet="{{site.baseurl}}/img/home-face-c.png" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="{{site.baseurl}}/img/home-face-c.png" alt="Doctor" /></picture>
             </figure>
         </div>
     </section>
