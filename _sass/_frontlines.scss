@@ -160,14 +160,9 @@ h3.accent-light-blue {
 }
 
 .person-title {
-  font-size: 2vh;
+  font-size: 3vh;
 }
 
-@media (min-width: 780px) {
-  .person-title {
-    font-size: 3vh;
-  }
-}
 
 
 span.page-title-text, {
@@ -201,7 +196,7 @@ a.page-title-text:hover {
 
 .person-picture.row {
   padding-bottom: 8rem;
-  padding-top: 8rem;
+  padding-top: 12rem;
 
   @media only screen and (max-width: 640px) {
     padding-top: 0;
