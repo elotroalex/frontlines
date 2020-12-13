@@ -8,21 +8,40 @@ variable declaration
 /* branding */
 // $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 
+
 @font-face {
-    font-family: 'basis-grotesque-regular-pro';
-    src: url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.eot');
-    src: url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.eot?#iefix') format('embedded-opentype'),
-         url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.woff2') format('woff2'),
-         url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.woff') format('woff'),
-         url('fonts/basis-grotesque/web/basis-grotesque-regular-pro.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: BasisGrotesque;
+    src: url({{site.baseurl}}/assets/fonts/basis-grotesque-regular-pro-web/web/basis-grotesque-regular-pro.eot);
+    src: url({{site.baseurl}}/assets/fonts/basis-grotesque-regular-pro-web/web/basis-grotesque-regular-pro.eot?#iefix) format("embedded-opentype"), url({{site.baseurl}}/assets/fonts/basis-grotesque-regular-pro-web/web/basis-grotesque-regular-pro.ttf) format("truetype"), url({{site.baseurl}}/assets/fonts/basis-grotesque-regular-pro-web/web/basis-grotesque-regular-pro.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
 }
+
+@font-face {
+    font-family: BasisGrotesque;
+    src: url('{{site.baseurl}}/assets/fonts/basis-grotesque-italic-pro-web/web/basis-grotesque-italic-pro.eot');
+    src: url('{{site.baseurl}}/assets/fonts/basis-grotesque-italic-pro-web/web/basis-grotesque-italic-pro.eot?#iefix') format('embedded-opentype'),
+         url('{{site.baseurl}}/assets/fonts/basis-grotesque-italic-pro-web/web/basis-grotesque-italic-pro.woff2') format('woff2'),
+         url('{{site.baseurl}}/assets/fonts/basis-grotesque-italic-pro-web/web/basis-grotesque-italic-pro.woff') format('woff'),
+         url('{{site.baseurl}}/assets/fonts/basis-grotesque-italic-pro-web/web/basis-grotesque-italic-pro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: BasisGrotesque;
+    src: url({{site.baseurl}}/assets/fonts/basis-grotesque-light-pro-web/web/basis-grotesque-light-pro.eot);
+    src: url({{site.baseurl}}/assets/fonts/basis-grotesque-light-pro-web/web/basis-grotesque-light-pro.eot?#iefix) format("embedded-opentype"), url({{site.baseurl}}/assets/fonts/basis-grotesque-light-pro-web/web/basis-grotesque-light-pro.ttf) format("truetype"), url({{site.baseurl}}/assets/fonts/basis-grotesque-light-pro-web/web/basis-grotesque-light-pro.woff) format("woff");
+    font-weight: 300;
+    font-style: normal
+}
+
+
 
 /* text */
 
-$body-font:       'basis-grotesque-regular-pro', 'sans-serif';
-$heading-font:    'basis-grotesque-regular-pro', 'sans-serif';
+$body-font:       'BasisGrotesque', 'sans-serif';
+$heading-font:    'BasisGrotesque', 'sans-serif';
 
 
 /* Image Size */

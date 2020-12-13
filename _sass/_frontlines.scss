@@ -19,8 +19,10 @@ html, body {
 }
 
 .main.container {
-  padding-bottom: 8rem;
-  padding-top: 8rem;
+  padding-bottom: 6rem;
+  padding-top: 6rem;
+  margin-top: 6rem;
+
 }
 
 .home .header-title {
@@ -39,16 +41,29 @@ html, body {
 
 // General
 
-h2 {
-  padding-top: 3rem;
+
+
+
+
+@media (min-width: 780px) {
+  .main {
+  margin-top: 4rem;
+  }
 }
 
-.ebola h2 {
-  color: $accent-light-blue;
-}
 
 h3 {
   padding-top: 2rem;
+}
+
+.ebola div.main h3 {
+  font-weight: 300;
+  font-size: 1.4rem;
+}
+
+h4.body-header-sub {
+  font-size: 3vw;
+  margin-bottom: -1vw;
 }
 
 p {
@@ -69,6 +84,7 @@ blockquote {
   padding-right: 3rem;
   color: #666;
   font-size: 1.3rem;
+  margin-top: 1.3rem;
 }
 
 span.attribution {
@@ -124,7 +140,7 @@ span.attribution {
   color: $bg-color;
 }
 
-#collection .header-subtitle {
+h3.accent-light-blue {
   color: $accent-light-blue;
 }
 
@@ -143,6 +159,16 @@ span.attribution {
   font-size: 90px;
   letter-spacing: -0.035em;
   line-height: 62%;
+}
+
+.person-title {
+  font-size: 2vh;
+}
+
+@media (min-width: 780px) {
+  .person-title {
+    font-size: 3vh;
+  }
 }
 
 
@@ -189,6 +215,12 @@ a.page-title-text:hover {
   margin-top: -4rem;
 }
 
+@media (min-width: 780px) {
+  .collection-intro {
+    margin-top: 4rem;
+  }
+}
+
   /* For mobile phones: */
 
 @media only screen and (max-width:620px) {
@@ -212,9 +244,9 @@ a.page-title-text:hover {
 }
 
 .question {
-  color: $accent-light-blue;
-  font-weight: bold;
-  font-size: 1.3rem;
+  // color: $accent-light-blue;
+  font-weight: 300;
+  font-size: 1.4rem;
 }
 // Wax
 
@@ -395,12 +427,32 @@ a.page-title-text:hover {
 #footer {
   // background-color: $accent-light-blue;
   width: 100%;
+  padding-top: 4rem;
 }
 
 .footer-title {
-  font-size: 4rem;
+  font-size: 6rem;
   letter-spacing: -0.035em;
 }
+
+.footer-rights {
+  font-size: 1rem;
+}
+
+.page-header {
+  margin-top: -1.4rem;
+}
+
+.expanded-menu {
+  font-size: 1.6rem;
+}
+
+@media (max-width:1024px) {
+      .expanded-menu {
+      display: none;
+    }  
+}
+
 
 // Channel
 
@@ -509,53 +561,6 @@ body ::-webkit-scrollbar {
     background: transparent
 }
 
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Regular.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Regular.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Regular.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Regular.woff) format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Italic.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Italic.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Italic.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Italic.woff) format("woff");
-    font-weight: 400;
-    font-style: italic
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Light.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Light.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Light.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Light.woff) format("woff");
-    font-weight: 300;
-    font-style: normal
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-LightItalic.eot);
-    src: url(/static/fonts/BasisGrotesquePro-LightItalic.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-LightItalic.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-LightItalic.woff) format("woff");
-    font-weight: 300;
-    font-style: italic
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-Bold.eot);
-    src: url(/static/fonts/BasisGrotesquePro-Bold.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-Bold.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-Bold.woff) format("woff");
-    font-weight: 700;
-    font-style: normal
-}
-
-@font-face {
-    font-family: BasisGrotesquePro;
-    src: url(/static/fonts/BasisGrotesquePro-BoldItalic.eot);
-    src: url(/static/fonts/BasisGrotesquePro-BoldItalic.eot?#iefix) format("embedded-opentype"), url(/static/fonts/BasisGrotesquePro-BoldItalic.ttf) format("truetype"), url(/static/fonts/BasisGrotesquePro-BoldItalic.woff) format("woff");
-    font-weight: 700;
-    font-style: italic
-}
 
 .debug-mode-active body {
     outline: 1px solid #2980b9 !important
@@ -675,11 +680,11 @@ body ::-webkit-scrollbar {
 }
 
 .flex-column {
-    flex-direction: column
+    flex-direction: column;
 }
 
 .flex-wrap {
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 .items-start {
@@ -730,6 +735,7 @@ body ::-webkit-scrollbar {
     .h-50-md {
         height: 50vh
     }
+
 }
 
 @media (min-width:1024px) {
@@ -757,6 +763,10 @@ body ::-webkit-scrollbar {
 @media (min-width:768px) {
     .absolute-md {
         position: absolute
+    }
+
+    div.mt6 {
+      margin-top: 6rem;
     }
 }
 
@@ -933,7 +943,7 @@ body ::-webkit-scrollbar {
 
 .body-copy,
 body {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-size: 1.125rem;
     line-height: 1.5;
     font-weight: 400;
@@ -953,7 +963,7 @@ body p+p {
 
 .body-header,
 .page-header {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400;
     letter-spacing: -.4vw
 }
@@ -964,12 +974,17 @@ body p+p {
     border-bottom: .15625vw solid #000
 }
 
+.body-header.nurse-name {
+  font-size: 8vw;
+  margin-bottom: .6rem;
+}
+
 .body-header.no-underline {
     border-bottom: none
 }
 
 .section-header {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400;
     font-size: 1.5625rem;
     line-height: 1.25
@@ -982,7 +997,7 @@ body p+p {
 }
 
 .project-header {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400;
     font-size: 1.5625rem;
     line-height: 1.25
@@ -1001,7 +1016,7 @@ body p+p {
 }
 
 .rich-text p {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-size: 1.125rem;
     font-weight: 400;
     line-height: 1.5
@@ -1019,7 +1034,7 @@ body p+p {
 
 .rich-text h1,
 .rich-text h2 {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     font-weight: 400
 }
 
@@ -1063,7 +1078,10 @@ body p+p {
 }
 
 .Header__menu-item {
-    display: inline-block
+    display: inline-block;
+    position: fixed;
+    right: 20px;
+    z-index: 1;
 }
 
 .Header__menu-item a,
@@ -1074,7 +1092,7 @@ body p+p {
 }
 
 .Nav {
-    font-family: BasisGrotesquePro, Helvetica, Geneva, sans-serif;
+    font-family: BasisGrotesque, Helvetica, Geneva, sans-serif;
     line-height: 1;
     top: 0;
     left: 100%;
@@ -1159,7 +1177,7 @@ body p+p {
 .Card__figure {
     width: 100%;
     height: 18.75rem;
-    min-height: 20rem;
+    min-height: 18.75rem;
     background-color: #fff;
     background-size: cover;
     background-position: 50%
@@ -1209,3 +1227,58 @@ body p+p {
     }
 }
 
+
+
+h2 {
+  padding-top: 3rem;
+  margin-top: 2rem;
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+h3 {
+  padding-top: 1rem;
+  margin-top: 1rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+
+// Wax Parallax
+
+.wax-parallax.inline-parallax {
+  margin-top: $more-margin;
+}
+
+.wax-parallax.top-banner {
+
+}
+
+.wax-parallax {
+
+  .parallax-image {
+    background-color: $neutral;
+    width: 100vw;
+    height: $parallax-height;
+    max-height: 55vh;
+    margin: 0;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .parallax-caption {
+    margin: 0 auto;
+    width: 100vw;
+    background-color: #F5F5F5;
+    padding: $less-margin 0;
+    a {
+      color: $accent-light-blue;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: $accent-dark;
+    }
+  }
+}

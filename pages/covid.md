@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: COVID-19
 section: covid
 ---
