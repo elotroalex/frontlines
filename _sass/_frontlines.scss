@@ -43,8 +43,6 @@ html, body {
 
 
 
-
-
 @media (min-width: 780px) {
   .main {
   margin-top: 4rem;
@@ -204,6 +202,11 @@ a.page-title-text:hover {
 .person-picture.row {
   padding-bottom: 8rem;
   padding-top: 8rem;
+
+  @media only screen and (max-width: 640px) {
+    padding-top: 0;
+    width: 100%;
+  }
 }
 
 .vl {
@@ -230,6 +233,11 @@ a.page-title-text:hover {
 }
 
 // Content
+
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
 
 .content .row {
   padding-top: 8rem;
@@ -267,6 +275,17 @@ a.page-title-text:hover {
   margin-left: -50vw;
   margin-right: -50vw;
   margin-bottom: $more-margin;
+}
+
+img.item-full-image {
+  @media screen and (min-width: 640px) {
+    max-width: 50%;
+    
+  }
+  @media screen and (min-width: 1024px) {
+    max-width: 60%;
+    
+  }
 }
 
 
@@ -373,7 +392,7 @@ a.page-title-text:hover {
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 5;
+  z-index: 1000;
   top: 0;
   right: 0;
   background-color: #fff;
@@ -779,15 +798,19 @@ body ::-webkit-scrollbar {
 }
 
 .ma3 {
-    margin: 1rem
+    margin: 1rem;
 }
 
 .mla {
-    margin-left: auto
+    margin-left: auto;
 }
 
 .mr3 {
-    margin-right: 1rem
+    margin-right: 1rem;
+
+    @media only screen and (min-width: 1360px) {
+      top: 40px;
+    }
 }
 
 .mb1 {
