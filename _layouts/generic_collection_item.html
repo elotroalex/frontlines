@@ -10,7 +10,7 @@ layout: default
       <div class="Card__title relative absolute-md ma3-md col-10">
         <h4 class="body-header-sub">Frontline Nurses: {% if page.collection == 'ebola' %}Ebola{% elsif page.collection == 'covid' %}Covid-19{% endif %}</h4>
         <h3 class="body-header nurse-name dib">{{ page.name | newline_to_br }}</h3><br>
-        <span alt="{{ page.title }}" class='person-title'>{{ page.title }}</span>
+        <p alt="{{ page.title }}" class='person-title'>{{ page.title }}</p>
       </div>
 
       <div class='person-picture row flex items-start items-end-md h-a h-50-md h-a-lg w-100 mt6 mt0-md'>

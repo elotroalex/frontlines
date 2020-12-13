@@ -232,6 +232,25 @@ a.page-title-text:hover {
   }
 }
 
+@media only screen and (max-width:620px) {
+
+  .col-8 {
+    flex: 0 0 auto;
+    max-width: 100%;
+  }
+
+  span.footer-title {
+    font-size: 3rem;
+    letter-spacing: -0.035em;
+  }
+
+  span.footer-rights  {
+    font-size: .4rem;
+  }
+
+}
+
+
 // Content
 
 .row {
