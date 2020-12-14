@@ -106,6 +106,8 @@ Director), Columbia Center for Oral History Research
 **Jennifer Dohrn**, Assistant Dean, Office of Global Initiatives and
 Assistant Professor at Columbia School of Nursing
 
+**Alex Gil**, Digital Scholarship Librarian, Columbia University Libraries.
+
 **Wilmot James**, Senior Research Scholar, Institute for Social and Economic
 Research and Policy, Columbia University
 
@@ -121,6 +123,7 @@ Health/Malawi
 **Victoria Rosner**, Dean of Academic Affairs, Columbia University School of
 General Studies and Adj. Associate Professor of English and Comparative
 Literature
+
 
 
 ## Project Coordinators:
@@ -167,8 +170,7 @@ Literature
 
 ## Production
 
-Architecture and development by **Alex Gil**,
-Digital Scholarship Librarian, Columbia University Libraries.
+Architecture and development by Alex Gil.
 
 Design by **Channel Studio**.
 
