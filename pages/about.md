@@ -13,9 +13,7 @@ policymakers gather to set protocols and priorities for pandemic
 response. This is a dangerous and consequential omission.
 
 <div class="inline-image-reference">
-  <a href="https://minicomp.github.io/wax/qatar/obj7/">
     <img src="{{site.baseurl}}/img/about/about-c.jpg" />
-  </a>
 <!--   <p class="image-caption">
     Above: Page from the Shahnama</a>
   </p>  --> 
@@ -32,9 +30,7 @@ together with a powerful ethical commitment to their work, despite the
 danger and sacrifice it demands.
 
 <div class="inline-image-reference">
-  <a href="https://minicomp.github.io/wax/qatar/obj7/">
     <img src="{{site.baseurl}}/img/about/about-d.jpg" />
-  </a>
 <!--   <p class="image-caption">
     Above: Page from the Shahnama</a>
   </p>  --> 
@@ -59,9 +55,7 @@ because of both gender bias and the hierarchical, MD-centered
 organization of the health care workforce.
 
 <div class="inline-image-reference">
-  <a href="https://minicomp.github.io/wax/qatar/obj7/">
     <img src="{{site.baseurl}}/img/about/about-b.jpg" />
-  </a>
 <!--   <p class="image-caption">
     Above: Page from the Shahnama</a>
   </p>  --> 
@@ -82,9 +76,7 @@ group members come from many parts of the world and many different
 backgrounds.
 
 <div class="inline-image-reference">
-  <a href="https://minicomp.github.io/wax/qatar/obj7/">
     <img src="{{site.baseurl}}/img/about/about-a.jpg" />
-  </a>
 <!--   <p class="image-caption">
     Above: Page from the Shahnama</a>
   </p>  --> 
