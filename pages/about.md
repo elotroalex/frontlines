@@ -12,6 +12,15 @@ nurses are generally excluded when municipal, state, and international
 policymakers gather to set protocols and priorities for pandemic
 response. This is a dangerous and consequential omission.
 
+<div class="inline-image-reference">
+  <a href="https://minicomp.github.io/wax/qatar/obj7/">
+    <img src="{{site.baseurl}}/img/about/about-c.jpg" />
+  </a>
+<!--   <p class="image-caption">
+    Above: Page from the Shahnama</a>
+  </p>  --> 
+</div>
+
 Nurses comprise 70% of the global health workforce, and during
 infectious disease outbreaks they deliver the majority of treatment,
 creating and supporting hygienic standards, devising and implementing
@@ -21,6 +30,15 @@ outbreaks requires local knowledge and familiarity with how people live,
 and nurses and midwives have the trust of the communities they serve,
 together with a powerful ethical commitment to their work, despite the
 danger and sacrifice it demands.
+
+<div class="inline-image-reference">
+  <a href="https://minicomp.github.io/wax/qatar/obj7/">
+    <img src="{{site.baseurl}}/img/about/about-d.jpg" />
+  </a>
+<!--   <p class="image-caption">
+    Above: Page from the Shahnama</a>
+  </p>  --> 
+</div>
 
 When the Ebola Virus Disease broke out in western African countries in 2014,
 nurses helped end the outbreak despite a slow international response,
@@ -40,6 +58,15 @@ to be strikingly underrepresented in health care leadership roles
 because of both gender bias and the hierarchical, MD-centered
 organization of the health care workforce.
 
+<div class="inline-image-reference">
+  <a href="https://minicomp.github.io/wax/qatar/obj7/">
+    <img src="{{site.baseurl}}/img/about/about-b.jpg" />
+  </a>
+<!--   <p class="image-caption">
+    Above: Page from the Shahnama</a>
+  </p>  --> 
+</div>
+
 It is in this context that *Frontline Nurses* works *to document* the
 role of frontline nurses in pandemic disease outbreaks, *to recognize*
 nurses for their critical contribution to public health during
@@ -52,9 +79,22 @@ health security and regulation and on gender in professional cultures.
 To document the role of nurses, we employ the methodology of oral
 history developed by the Columbia Center for Oral History Research. Our
 group members come from many parts of the world and many different
-backgrounds. 
+backgrounds.
+
+<div class="inline-image-reference">
+  <a href="https://minicomp.github.io/wax/qatar/obj7/">
+    <img src="{{site.baseurl}}/img/about/about-a.jpg" />
+  </a>
+<!--   <p class="image-caption">
+    Above: Page from the Shahnama</a>
+  </p>  --> 
+</div>
+
+<hr>
 
 Contact us at frontlinenurses@gmail.com.
+
+<hr>
 
 ## Project participants:
 

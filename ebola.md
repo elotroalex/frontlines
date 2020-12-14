@@ -49,7 +49,7 @@ section: Ebola
         <div class="Project__image w-100 w-40-lg mt6 mt0-lg">
             <figure>
                 <picture>
-                    <source srcSet="//images.ctfassets.net/0j7k3rz20xse/7zL45abCwmOuRdsbCT8Zdq/ed9601dcc466dc43567d2c5cdb4cb0be/nurse.jpg?w=480&amp;fm=jpg&amp;fl=progressive&amp;q=70" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="{{site.baseurl}}/img/home-face-a.png" alt="Wilhelmina W.G. Flomo" /></picture>
+                    <source srcSet="{{site.baseurl}}/img/home-face-a.png" media="(max-width: 1440px)" /><img class="Project__figure db mha mh0-lg" src="{{site.baseurl}}/img/home-face-a.png" alt="Wilhelmina W.G. Flomo" /></picture>
             </figure>
         </div>
     </section>
