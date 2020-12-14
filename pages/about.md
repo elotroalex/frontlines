@@ -90,11 +90,6 @@ backgrounds.
   </p>  --> 
 </div>
 
-<hr>
-
-Contact us at frontlinenurses@gmail.com.
-
-<hr>
 
 ## Project participants:
 
@@ -104,84 +99,92 @@ Study of Social Difference at Columbia University, in collaboration with
 the Liberian Board of Nursing and Midwifery and the Sierra Leone Nurses
 Association.
 
-Mary Marshall Clark, Senior Research Scientist, INCITE
+**Mary Marshall Clark**, Senior Research Scientist, INCITE
 (Interdisciplinary Center for Innovative Theory and Empirics and
 Director), Columbia Center for Oral History Research
 
-Jennifer Dohrn, Assistant Dean, Office of Global Initiatives and
+**Jennifer Dohrn**, Assistant Dean, Office of Global Initiatives and
 Assistant Professor at Columbia School of Nursing
 
-Wilmot James, Senior Research Scholar, Institute for Social and Economic
+**Wilmot James**, Senior Research Scholar, Institute for Social and Economic
 Research and Policy, Columbia University
 
-Susan Michaels-Strasser, Assistant Professor of Epidemiology, Columbia
+**Susan Michaels-Strasser**, Assistant Professor of Epidemiology, Columbia
 University Medical Center
 
-Annette Mwansa Nkowane, Former Technical Officer of Nursing and
+**Annette Mwansa Nkowane**, Former Technical Officer of Nursing and
 Midwifery, World Health Organization (WHO)
 
-Margaret Loma Phiri, Nursing and Midwifery Advisor, Seed Global
+**Margaret Loma Phiri**, Nursing and Midwifery Advisor, Seed Global
 Health/Malawi
 
-Victoria Rosner, Dean of Academic Affairs, Columbia University School of
+**Victoria Rosner**, Dean of Academic Affairs, Columbia University School of
 General Studies and Adj. Associate Professor of English and Comparative
 Literature
 
+
 ## Project Coordinators:
 
-Hannah Bender, Columbia College (CC)
+**Hannah Bender**, Columbia College (CC)
 
-Kurt Holuba, Columbia School of General Studies (GS)
+**Kurt Holuba**, Columbia School of General Studies (GS)
 
-Jeremy Orloff, GS
+**Jeremy Orloff**, GS
 
-Mina Shah, GS
+**Mina Shah**, GS
 
 ## Research Associate
 
-Erica Anderson, GS
+**Erica Anderson**, GS
 
 ## Student Associates
 
-Emma Anderson, GS
+**Emma Anderson**, GS
 
-Erica Anderson, GS
+**Erica Anderson**, GS
 
-Emily Bartlett, Columbia School of Nursing (SN)
+**Emily Bartlett**, Columbia School of Nursing (SN)
 
-Lia Mary Farrell, GS
+**Lia Mary Farrell**, GS
 
-Sarah Gleason, SN
+**Sarah Gleason**, SN
 
-Corie Hahn, GS
+**Corie Hahn**, GS
 
-Ming Pei, GS
+**Ming Pei**, GS
 
-Thomas Peterson, GS
+**Thomas Peterson**, GS
 
-Franci van Ryhn, GS
+**Franci van Ryhn**, GS
 
-Maureen Saylor, SN
+**Maureen Saylor**, SN
 
-Katarina Skoko, GS
+**Katarina Skoko**, GS
 
-Lewis Rubin Thompson, GS
+**Lewis Rubin Thompson**, GS
 
-Romesh Withanage, GS
+**Romesh Withanage**, GS
 
 ## Production
 
-Architecture and development by Alex Gil,
+Architecture and development by **Alex Gil**,
 Digital Scholarship Librarian, Columbia University Libraries.
 
-Design by Channel Studio.
+Design by **Channel Studio**.
 
-Hosting and support by Columbia University Libraries. Digital exhibit pages produced using [Wax](https://minicomp.github.io/wax/) by Marii Nyrop. 
+Hosting and support by Columbia University Libraries. Digital exhibit pages produced using [Wax](https://minicomp.github.io/wax/) by **Marii Nyrop**. 
 
 
 ## Special Thanks
 
-Special thanks to Dolphine Buoga, Ayah Eldosougi, Marianne Hirsch,
+Special thanks to **Dolphine Buoga, Ayah Eldosougi, Marianne Hirsch,
 Lorraine Frazier, Cecelia C. Kpangbala Flomo, Yu-Hui Ferng, Mary Fullah,
 Darboi Korkoyah, Elaine Larson, Nancy K. Miller, Catherine LaSota, Steve
-Nicholas, Joan Shepherd, Mame Toure, Paige West.
+Nicholas, Joan Shepherd, Mame Toure, Paige West**.
+
+<br>
+<br>
+<hr>
+
+Contact us at frontlinenurses@gmail.com.
+
