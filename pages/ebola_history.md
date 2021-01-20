@@ -514,11 +514,19 @@ was reduced after the crisis.[^82]
 
 <br>
 
----
+<hr>
 
-Erica Andersen, Ming Pei, and Thomas Peterson; adapted in part from the work of Hannah Bender.
+<p>Erica Andersen, Ming Pei, and Thomas Peterson; adapted in part from the work of Hannah Bender.</p>
+<hr>
+<br>
 
----
+
+
+<div class="menu-button">
+  <a href="/frontlines/ebola/collection/" alt="Go to Interviews">Go to Interviews</a> | <a href="/frontlines/ebola/timeline/" alt="Go to Interviews">Go to Timeline</a>
+</div>
+<br>
+<hr>
 
 ## Notes
 
