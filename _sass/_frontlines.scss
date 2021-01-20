@@ -1178,6 +1178,15 @@ body p+p {
   padding-bottom: 2rem;
 }
 
+.inline-image-reference img, .inline-image-reference p {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
 .Nav__close {
     width: 2vw;
     height: 2vw;
