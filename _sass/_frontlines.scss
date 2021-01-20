@@ -450,7 +450,15 @@ img.item-full-image {
 }
 
 .sidenav a:hover {
+  color: $neutral;
+}
+
+span#ebola a:hover {
   color: $accent-light-blue;
+}
+
+span#covid a:hover {
+  color: $accent-light-sepia;
 }
 
 .sidenav .closebtn {
