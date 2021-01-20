@@ -12,12 +12,12 @@ nurses are generally excluded when municipal, state, and international
 policymakers gather to set protocols and priorities for pandemic
 response. This is a dangerous and consequential omission.
 
-<div class="inline-image-reference">
+<!-- <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/about/about-c.jpg" />
-<!--   <p class="image-caption">
+<p class="image-caption">
     Above: Page from the Shahnama</a>
-  </p>  --> 
-</div>
+  </p>  
+</div> -->
 
 Nurses comprise 70% of the global health workforce, and during
 infectious disease outbreaks they deliver the majority of treatment,
@@ -29,12 +29,12 @@ and nurses and midwives have the trust of the communities they serve,
 together with a powerful ethical commitment to their work, despite the
 danger and sacrifice it demands.
 
-<div class="inline-image-reference">
+<!-- <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/about/about-d.jpg" />
-<!--   <p class="image-caption">
-    Above: Page from the Shahnama</a>
-  </p>  --> 
-</div>
+   <p class="image-caption">
+    From left to right, Mwansa Nkowane, Senesie Margao, Jennifer Dohrn, Mary Fullah, Susan Michaels-Strasser, Joan Shepard, Jeremy Orloff, Margaret Phiri, Freetown, Sierra Leone, summer 2019.</a>
+  </p>
+</div> -->
 
 When the Ebola Virus Disease broke out in western African countries in 2014,
 nurses helped end the outbreak despite a slow international response,
@@ -54,12 +54,12 @@ to be strikingly underrepresented in health care leadership roles
 because of both gender bias and the hierarchical, MD-centered
 organization of the health care workforce.
 
-<div class="inline-image-reference">
+<!--  <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/about/about-b.jpg" />
-<!--   <p class="image-caption">
+ <p class="image-caption">
     Above: Page from the Shahnama</a>
-  </p>  --> 
-</div>
+  </p> 
+</div> --> 
 
 It is in this context that *Frontline Nurses* works *to document* the
 role of frontline nurses in pandemic disease outbreaks, *to recognize*
@@ -77,9 +77,7 @@ backgrounds.
 
 <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/about/about-a.jpg" />
-<!--   <p class="image-caption">
-    Above: Page from the Shahnama</a>
-  </p>  --> 
+  <p class="image-caption">From left to right, Mwansa Nkowane, Senesie Margao, Jennifer Dohrn, Mary Fullah, Susan Michaels-Strasser, Joan Shepard, Jeremy Orloff, Margaret Phiri, Freetown, Sierra Leone, summer 2019.</p>
 </div>
 
 
