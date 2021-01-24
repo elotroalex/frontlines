@@ -13,7 +13,7 @@ section: covid
       <div class="flex items-start items-end-md h-a h-50-md h-a-lg w-100 w-50-lg mt6 mt0-md">
           <div class="Card__description mr3 rich-text">
             <h3>[Coming Soon]</h3>
-            <p>TAs the Covid-19 pandemic has raced around the planet and overwhelmed health systems, nurses are on the frontlines of care. We asked nurses from New York City and around the world to share their experiences. In the coming months, we will conduct oral history interviews to gain an in-depth picture of nurses’ insights and personal stories about providing care during a pandemic.</p>
+            <p>As the Covid-19 pandemic has raced around the planet and overwhelmed health systems, nurses are on the frontlines of care. We asked nurses from New York City and around the world to share their experiences. We are currently conducting oral history interviews to gain an in-depth picture of nurses’ insights and personal stories about providing care during a pandemic. These interviews will be posted in spring 2021.</p>
           </div>
       </div>
   </div>
