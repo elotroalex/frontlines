@@ -51,7 +51,7 @@ years, the war finally ended in 2002.
 
 <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/history/history01.jpg"/>
-   <p class="image-caption">Above: <a href="https://www.nationsonline.org/oneworld/map/liberia-administrative-map.htm">Nations Online Project (2017). Administrative Map of Liberia.</a></p> 
+   <p class="image-caption">Above: <a href="https://www.nationsonline.org/oneworld/map/liberia-map.htm">Nations Online Project (2017). Political Map of Liberia.</a></p> 
 </div>
 
 
