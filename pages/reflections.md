@@ -4,9 +4,7 @@ title: Reflections
 permalink: /reflections/
 ---
 
-The Frontline Nurses team is composed of diverse individuals, each of whom brought their own interests and histories to bear on the work. 
-
-In the reflections below, we share with you our motivations for undertaking this project, and how it has changed us.
+The Frontline Nurses team is composed of diverse individuals, each of whom brought their own interests and histories to bear on the work. In the reflections below, we share with you our motivations for undertaking this project, and how it has changed us.
 
 
 
