@@ -118,13 +118,15 @@ Literature
 
 ## Project Coordinators:
 
-**Hannah Bender**, Columbia College (CC)
-
 **Kurt Holuba**, Columbia School of General Studies (GS)
+
+**Mina Shah**, GS
+
+**Hannah Bender**, Columbia College (CC)
 
 **Jeremy Orloff**, GS
 
-**Mina Shah**, GS
+
 
 ## Research Associate
 
@@ -157,6 +159,45 @@ Literature
 **Lewis Rubin Thompson**, GS
 
 **Romesh Withanage**, GS
+
+**Alix Duarte Gomez**, SN
+
+**Liliana Silebi**, SN
+
+**Maggie Town**, SN
+
+**Mary Howard**, SN
+
+**Maher Benham**, SN
+
+**Ben Duva**, GS
+
+**Jazz Cagan**, GS
+
+**Aimee Akers**, SN
+
+**Dana Ljubicic**, GS
+
+**Michaela Rahimi**, SN
+
+**Meika Folkerts**, GS
+
+**Nicole Cordero Callahan**, GS
+
+**Jordan Arbelaez**, SN
+
+**Michelle Garofalo**, SN
+
+**Margaret Murphy**, SN
+
+**Runwei Wang**, GS
+
+**Secunda Kariuki**, GS
+
+**Amei Shank**, GS
+
+**Eleanor Story**, GS
+
 
 ## Production
 
