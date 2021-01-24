@@ -4,15 +4,25 @@ title: Reflections
 permalink: /reflections/
 ---
 
+The Frontline Nurses team is composed of diverse individuals, each of whom brought their own interests and histories to bear on the work. 
+
+In the reflections below, we share with you our motivations for undertaking this project, and how it has changed us.
+
+
+
 ## Jennifer Dohrn, DNP, CNM, FAAN
 
 When I learned about the growing outbreaks of Ebola in Liberia, Sierra Leone and Guinea in 2014-2016, I immediately wanted to know about the nurses and midwives. Were they safe? Did they have personal protective equipment?  How could I help?  Having traveled this journey with nurses and midwives in South Africa in the early 2000s as they rallied and immersed themselves in caring for their communities ravaged by HIV, I wanted to connect and be with them in solidarity.  I organized my teaching with a timeline of what was happening week by week on the frontlines to keep students engaged and learn about pandemic response. Five years later I traveled to Sierra Leone and Liberia so that I could hear their stories, look nurses and midwives in their eyes and say, ‘You and your work mattered!’  I listened as they told me about their heartbreaks and victories, and their relentless determination to keep caring for their colleagues and their communities.  We cried together and acknowledged each other.  Now their stories will be heard around the world, and their wisdom and leadership are guiding us on how we respond to this COVID-19 pandemic.  I say their names and carry them in my heart as I fight for a just and equitable world.
 
 ## Victoria Rosner, PhD
 
-When this project was first conceived, I was dubious that I could have a meaningful role.  What could an English professor like me possibly contribute to understanding pandemic response?  What I came to learn is that the nurses we worked with were dealing with a communications problem – which is the kind of problem I could get my head around. The nurses were doing a phenomenal job – driving innovation with scant resources, showing immense bravery in the face of great danger, and going far beyond the scope of their duties to steer communities to safer practices.  Yet they were receiving little recognition, and their knowledge was missing the broader audience it deserved.  I am not a nurse or a policymaker, but I thought maybe I could help bridge the communications gap, help to shape and share the nurses’ stories.
+When this project was in development, I wondered whether I could usefully contribute to it. I was awed by the skill and commitment of nurses in pandemics, but their work seemed so remote from mine as an English professor in New York.  Still, I was so moved by their bravery and acumen and by what I took to be the evident role of sexism in denying nurses recognition that I was determined to try and help.
 
-From the very first I felt very lucky to be able to contribute to this effort, and over time I have come to understand that those of us with training in language and story-telling can really help to influence whose stories get told, and when, and how.  It’s been an extraordinary privilege for me to be part of this work.  Though I still apologetically introduce myself as “the English professor” when we talk about it in public. 
+What I discovered was that story-telling and life-writing could be valuable tools in bringing the contributions of frontline nurses to a wider audience.  Frontline nurses had never had the chance to tell their stories to the world, and they wanted the chance to do so.  Even before the COVID-19 outbreak, I had decided to dedicate my efforts to designing and building this website, to capturing nurses’ stories and preserving them for the public and for the historical record.
+
+When COVID-19 hit midway through this project, as a New Yorker, I was now on the frontlines of the outbreak myself, with a field hospital across the street from my home.  It became clearer than ever how much the stories of frontline nurses needed to be told and the cost in resources and lives of continuing to ignore their personal and clinical experiences.  
+
+From the very first I felt very lucky to be able to contribute to this effort, and over time I have come to understand that those of us with training in the humanities can determine whose stories get told, and when, and how. It’s been an extraordinary privilege for me to be part of this work.
 
 ## Annette Mwansa Nkowane, RN, RM, BSc, MA
 
