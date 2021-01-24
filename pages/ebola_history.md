@@ -68,7 +68,7 @@ further limited access to resources in these areas.[^8]
 
 <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/history/history02.jpg"/>
-   <p class="image-caption">Above: <a href="https://www.nationsonline.org/oneworld/map/sierra_leone_map.htm">Nations Online Project (2017). Administrative Map of Sierra Leone.</a></p> 
+   <p class="image-caption">Above: <a href="https://www.nationsonline.org/oneworld/map/sierra_leone_map2.htm">Nations Online Project (2017). Political Map of Sierra Leone.</a></p> 
 </div>
 
 ### Movement Among and Across Populations
@@ -83,7 +83,7 @@ disproportionate to the men of the region.[^10]
 
 <div class="inline-image-reference">
     <img src="{{site.baseurl}}/img/history/history03.jpg"/>
-   <p class="image-caption">Above: <a href="https://www.nationsonline.org/oneworld/map/sierra_leone_map.htm">Nations Online Project (2017). Administrative Map of Guinea.</a></p> 
+   <p class="image-caption">Above: <a href="https://www.nationsonline.org/oneworld/map/guinea-map.htm">Nations Online Project (2017). Political Map of Guinea.</a></p> 
 </div>
 
 High population mobility created significant challenges in controlling
