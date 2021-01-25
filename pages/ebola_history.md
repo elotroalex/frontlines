@@ -24,7 +24,7 @@ and wisdom of frontline nurses and midwives who cared for the sick in
 one of the deadliest global health disasters in modern times. This essay
 seeks to contextualize those recommendations within the history of the
 region and the specific virulence of this disease, and to explore the
-diverse factors that contributed to the spread of the disease.[^4]
+diverse factors that contributed to the spread of the Ebola virus.[^4]
 
 > "When you have war it's the military, and when you have diseases
 > outbreak it's the nurses. So we say it that we are now the soldiers. I
@@ -39,7 +39,7 @@ countries were still facing the aftermath of years of civil war and
 armed conflict that left the populations of both countries with weakened
 infrastructure and damaged faith in their respective governments. In
 Liberia, a military coup sparked the first civil war. The
-conflict took place from 1989 to 1997, leading to the deaths
+conflict took place from 1989 to 1997, leading to the deaths of
 approximately 250,000 people[^5] and displacing a further 750,000. A
 second civil war broke out in 1999, further destabilizing the region.
 The UN assumed peacekeeping and reintegration efforts in 2003.[^6] In
@@ -57,12 +57,12 @@ years, the war finally ended in 2002.
 
 The destruction from these civil wars caused widespread damage to
 infrastructure, which affected rural areas disproportionately and
-further limited access to resources in these areas.[^8]
+further limited access to resources in these regions.[^8]
 
 > "Sometimes we'll be on the job and there is an attack, so you have to
 > stay in the hospitals, you stay in the hospital for two or three days,
 > or sometimes even a week without food or without even other things,
-> because you're not able to leave the ward... for fear you will be seen
+> because you're not able to leave the ward ... for fear you will be seen
 > and attacked." --- Elizabeth K. Lemor; nurse midwife and Directorate of Training, Sierra Leone Ministry of Health (as of August 2019)
 > 
 
@@ -74,11 +74,11 @@ further limited access to resources in these areas.[^8]
 ### Movement Among and Across Populations
 
 High rates of movement across West Africa are largely driven by the
-importance of seeking economic opportunity as people travel daily for
-work. This mobility is viewed by some as economic and political
+importance of seeking economic opportunity. People travel daily for
+work. This mobility is viewed by some as an economic and political
 advantage, and the ability to migrate with ease retains social
 value.[^9] Women in particular often cross borders to trade in city
-markets, bringing them in contact with strangers at a rate
+markets, resulting in increased interpersonal contact at a rate
 disproportionate to the men of the region.[^10]
 
 <div class="inline-image-reference">
@@ -87,7 +87,7 @@ disproportionate to the men of the region.[^10]
 </div>
 
 High population mobility created significant challenges in controlling
-the spread of Ebola, and impeded contact tracing, especially in rural
+the spread of Ebola and impeded contact tracing, especially in rural
 areas. Incentives were offered to patients and their families to assist
 with the process of contact tracing; however, patients would often fail
 to accurately account for all of their recent contacts out of fear and
@@ -104,10 +104,10 @@ and political centers, further accelerating the spread of Ebola.[^12]
 
 Of the various community practices that conflicted with measures aiming
 to curb the spread of Ebola, funeral rites and burial practices proved
-especially problematic. Common West African burial practices include
-cleaning a corpse with water which other mourners might touch and sleep
+especially problematic. Common West African burial practices include using water to
+clean a corpse which other mourners might touch and sleep
 near.[^13], [^14] The Ministry of Health in Guinea estimated that
-around 60% of Ebola cases there were tied to such practices. Women, the
+around 60% of Ebola cases in the country were tied to such practices. Women, the
 principal caregivers and mourners, were disproportionately
 affected.[^15] In Sierra Leone, WHO staff implicated burial and mourning
 practices in 80% of cases.[^16]
@@ -120,20 +120,19 @@ practices in 80% of cases.[^16]
 As with many communities around the world, the burial of the deceased in
 unmarked graves, often with multiple bodies in the same grave, violated
 community norms.[^17] Burials performed by military personnel were often
-safe but undignified, while strikes by burial teams led to further
+safer than traditional burials but undignified, while strikes by burial teams led to further
 complications in the efforts to control the spread of Ebola.[^18] The
-shift towards new burial practices was slow and often encountered
-resistance from community members, as new measures tended to conflict
-with community standards up to that point.[^19] The government of
+shift towards new burial practices was slow. Communities resisted the new measures, as they tended to conflict
+with social standards up to that point.[^19] The government of
 Liberia mandated cremation[^20] and then recalled the directive after it
 proved so unpopular that families attempted to bury their deceased
 relatives in secret.[^21]
 
 > "People became very stubborn, even when they would know that a patient
 > has all the signs and symptoms, they would tell you "No, my patient is
-> not going. I don't want you to burn the body."...It was really, really
-> difficult...like they thought we were wicked. The medical team, the
-> leadership, the government, we all were wicked people...it was
+> not going. I don't want you to burn the body." ... It was really, really
+> difficult ... like they thought we were wicked. The medical team, the
+> leadership, the government, we all were wicked people ... it was
 > traumatizing for even us. Yes, it was traumatizing for all of us. We
 > had to do what we had to do." --- Mawah Kamara Verdier; registered nurse in Monrovia, Liberia and treasurer of the Liberian Nurses Association (as of August 2019)
 > 
@@ -166,10 +165,10 @@ mimics other common infectious diseases such as malaria, cholera, and
 typhoid fever, especially in its early stages. This makes the disease
 difficult to accurately diagnose without specialized testing. There is
 no antiviral therapy and treatment is limited to supportive care, such
-as rehydration and respiratory assistance. Healthcare workers are at
+as rehydration and respiratory support. Healthcare workers are at
 increased risk for infection and strict infection control protocols must
 be followed to reduce the risk of virus transmission. The necessary
-protective equipment is bulky and makes it difficult for patients to see
+protective equipment is bulky and makes it difficult for patients to identify
 the person who is providing their care. Depending on their particular
 occupation, healthcare workers were around 21 to 32 times more likely to
 contract Ebola than those working in other fields,[^23] though the
@@ -186,7 +185,7 @@ This presents particular challenges for funerary practices, as the virus
 remains viable in a corpse for at least two days following death.[^29]
 The virus can also remain active for an unknown length of time in
 certain bodily fluids, including semen, after an infected person has
-recovered.[^30] Current guidelines direct Ebola survivors and their
+recovered.[^30] Current (2020) guidelines direct Ebola survivors and their
 partners to refrain from unprotected sexual activity until two tests at
 least one week apart show no evidence of the virus in semen. In the
 absence of testing, the guidelines recommend waiting at least 12 months
@@ -194,7 +193,7 @@ before engaging in sexual contact without appropriate protection.[^31]
 
 Various widespread theories about the disease[^32] resulted in mistrust
 of the medical community,[^33] while quarantine and other measures aimed
-at curbing the spread of the virus strained social bonds.[^34] Some
+at curbing the spread of the virus strained social structures.[^34] Some
 frontline healthcare[^35] and aid[^36] workers faced hostility even as
 outreach campaigns worked to combat suspicion with awareness.[^37]
 
@@ -205,16 +204,16 @@ outreach campaigns worked to combat suspicion with awareness.[^37]
 
 The first Ebola vaccine was approved in late 2019. Clinical trials
 conducted in West Africa during the epidemic supported the approval of
-the vaccine, which has since been deployed in the continuing Ebola
+the vaccine, which has since been deployed in the continuing (as of 2020) Ebola
 outbreak in the Democratic Republic of the Congo.[^38]
 
 > "People believe that the Ebola is not real. That the government wants
 > to get money from the outside world, so they just brought a disease,
 > or say there is Ebola so that support will come in. Some people
-> believed it to be witchcraft....But from my knowledge as a nurse, I
+> believed it to be witchcraft. ... But from my knowledge as a nurse, I
 > started to tell my staff that we have to be careful. We started
 > wearing gloves for everything we do, we started washing our hands more
-> frequently, and we actually minimized the amount of touches we do....I
+> frequently, and we actually minimized the amount of touches we do. ... I
 > understood that Ebola is not what people think it is. Even in my
 > community we organized a group there, and we started going from house
 > to house, we started giving out chlorine, we started giving out
@@ -233,10 +232,10 @@ led to rumors that the disease was being spread by Red Cross volunteers,
 who were rumored to be spraying schoolchildren with the virus.[^40]
 
 > "People were not going to the hospital. They couldn't trust the health
-> system because at that time...there was this myth that nurses were
-> part of the disease... The community never trusted us because they
+> system because at that time. ... there was this myth that nurses were
+> part of the disease. ... The community never trusted us because they
 > felt that we were lying, we brought the disease, we kill the people.
-> So \[we\] felt trapped..." --- Patience D. Cooper-Tokpah; midwife and nurse in Monrovia, Liberia who supervised the JFK Ebola Treatment Unit
+> So \[we\] felt trapped." --- Patience D. Cooper-Tokpah; midwife and nurse in Monrovia, Liberia who supervised the JFK Ebola Treatment Unit
 
 ### Stigmatization of Healthcare Workers
 
@@ -269,7 +268,7 @@ activities are associated with a high risk of contracting the disease as
 the disease in dead bodies is extremely virulent.[^43]
 
 Traditional roles also influence gender distribution in the healthcare
-workforce. In sub-Saharan Africa, about 90% of the nursing staff is also
+workforce. In sub-Saharan Africa, about 90% of the nursing staff is 
 female, though men hold a majority of leadership positions.[^44]
 Consequently, women are most likely to be the frontline caregivers in an
 epidemic and as a result are most exposed to sick and infectious
@@ -278,7 +277,7 @@ patients.
 During the Ebola outbreak, access to routine healthcare resources was
 severely limited. For women, this resulted in increased maternal
 mortality and complications[^45], [^46] and restricted access to
-contraception.[^47] Girls orphaned by the disease were more likely to
+contraception.[^47] Girls who lost their parents to disease were more likely to
 face child marriage and sexual exploitation.[^48]
 
 The epidemic continues to have lasting effects on women in West Africa.
@@ -335,7 +334,7 @@ and sepsis.[^59]
 
 The outbreak also halted ongoing efforts and progress in Liberia to
 improve maternal and child health.[^60] In Sierra Leone, the number of
-women accessing maternal care also decreased. Among those who did access
+women accessing maternal care decreased. Among those who could access
 care, stillbirths and maternal mortality increased.[^61]
 
 In addition to the structural barriers impeding maternal care during an
@@ -406,7 +405,7 @@ both Sierra Leone and Liberia, the end of the outbreak was declared
 prematurely on multiple occasions. Liberia was declared Ebola-free for
 the fourth time on June 9, 2016. On March 7, 2016, Sierra Leone was
 declared Ebola-free for the second time. On June 1, 2016, Guinea
-declared Ebola-free for the second time. On March 29^th^, 2016, the WHO
+declared Ebola-free for the second time. On March 29, 2016, the WHO
 declared the end of the Public Health Emergency of International
 Concern.[^65]
 
@@ -414,14 +413,14 @@ Concern.[^65]
     <img src="{{site.baseurl}}/img/history/history10.jpg"/><p class="image-caption">Above: <a href="https://www.who.int/features/2014/life-after-ebola/en/">[Ebola Banner in Guinea] (2014). WHO/RTG.</a></p> 
 </div>
 
-There continue to be lasting effects on the region due to the crisis.
-The loss of healthcare workers resulted in a shortage of healthcare
-services. Guinea, Liberia, and Sierra Leone have faced heavy budget
-deficits. The World Bank estimates the financial impact of the Ebola
-epidemic on West Africa at \$2.8 billion, comprised of a toll of \$600
-million in Guinea, \$300 million in Liberia, and \$1.9 billion in Sierra
-Leone. Budgetary deficits in 2015 were estimated to constitute 8.5% of
-the GDP in Liberia, 9.4 % in Guinea, and 4.8% in Sierra Leone.[^66]
+The crisis has had a lasting effects in the region. The loss of healthcare 
+workers resulted in a shortage of healthcare services. Guinea, Liberia, 
+and Sierra Leone faced heavy budget deficits. The World Bank 
+estimates the financial impact of the Ebola epidemic on West Africa 
+at \$2.8 billion, comprised of a toll of \$600 million in Guinea, 
+\$300 million in Liberia, and \$1.9 billion in Sierra Leone. Budgetary 
+deficits in 2015 were estimated to constitute 8.5% of the GDP in Liberia, 
+9.4 % in Guinea, and 4.8% in Sierra Leone.[^66]
 
 Models describing the effects of the loss of doctors, nurses, and
 midwives on various health outcomes show the largest effects on maternal
@@ -429,8 +428,8 @@ mortality, with predicted increases of 38% in Guinea, 74% in Sierra
 Leone, and 111% in Liberia compared to pre-Ebola statistics. These
 estimates indicate the loss of an additional 4,022 women per year in
 childbirth. The resulting maternal mortality rates would rival those
-from the height of conflict periods, including figures from 2,000 in
-Guinea and Sierra Leone, and 1,995 in Liberia.[^67] Children missed more
+from the height of conflict periods, including figures from 2000 in
+Guinea and Sierra Leone, and 1995 in Liberia.[^67] Children missed more
 than eight months of school and experienced a 30% decline in routine
 immunizations. Throughout West Africa, 17,300 children were left without
 one or both of their parents due to losses from Ebola.[^68]
@@ -438,7 +437,7 @@ one or both of their parents due to losses from Ebola.[^68]
 > "I saw children die. I saw women die. I saw men die. I saw babies die.
 > People used to die like you can't imagine. Yes. It was terrible to the
 > look of eyes, it was terrible to the ears, and when you confront it
-> sometimes say god, have mercy." --- Jestina T. Clarke; nurse midwife at Redemption Hospital in Monrovia, Liberia
+> sometimes say God, have mercy." --- Jestina T. Clarke; nurse midwife at Redemption Hospital in Monrovia, Liberia
 
 ### Continued Infection Protection Control
 
@@ -509,7 +508,7 @@ was reduced after the crisis.[^82]
 > a situation to come before you say, "Oh, let me take IPC measures." It
 > could be too late. You could be infected already. So, instead of just
 > waiting for Ebola outbreak or another outbreak before we know that we
-> as health workers should take precautions...We need to learn from the
+> as health workers should take precautions ... We need to learn from the
 > Ebola episode." --- Wilhelmina W.G. Flomo; registered midwife in Monrovia, Liberia and president of the Liberia Midwives Association (as of August 2019)
 
 <br>
