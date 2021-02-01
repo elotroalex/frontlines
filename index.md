@@ -37,7 +37,7 @@ section: home
 
 <section class="Card h-a mh-100-md relative flex flex-column " style="background-color:#CFA38A">
    <div class="flex flex-auto flex-column flex-row-lg relative Card__inner w-100 pa3">
-       <div class="Card__title relative absolute-md ma3-md"><a href="covid-19/">
+       <div class="Card__title relative absolute-md ma3-md"><a href="covid/">
                <h3 class="body-header dib">Covid-19</h3>
            </a></div>
        <div class="flex items-start items-end-md h-a h-50-md h-a-lg w-100 w-50-lg mt6 mt0-md">
