@@ -15,7 +15,7 @@ branches:
   except:
     - static
 
-# Make sure to change the script
+# Make sure to change the script below
 
 script:
   - bundle exec jekyll build -d _site
