@@ -15,7 +15,7 @@ branches:
   except:
     - static
 
-# Make sure to change the script below
+# Make sure to add the new bucket name to the script below
 
 script:
   - bundle exec jekyll build -d _site
