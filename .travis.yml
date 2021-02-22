@@ -29,4 +29,4 @@ deploy:
     skip_cleanup: true
     local_dir: _site
     on:
-      branch: master
+      branch: main
