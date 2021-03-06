@@ -522,7 +522,7 @@ was reduced after the crisis.[^82]
 
 
 <div class="menu-button">
-  <a href="/frontlines/ebola/collection/" alt="Go to Interviews">Go to Interviews</a> | <a href="/frontlines/ebola/timeline/" alt="Go to Interviews">Go to Timeline</a>
+  <a href="/ebola/collection/" alt="Go to Interviews">Go to Interviews</a> | <a href="/ebola/timeline/" alt="Go to Interviews">Go to Timeline</a>
 </div>
 <br>
 <hr>

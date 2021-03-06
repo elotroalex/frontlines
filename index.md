@@ -45,7 +45,7 @@ section: home
                <p>As the Covid-19 pandemic has raced around the planet and overwhelmed health systems, nurses and midwives are on the frontlines of care. We asked nurses from New York City and around the world to share their experiences. We are currently conducting oral history interviews to gain an in-depth picture of nurses’ insights and personal stories about providing care during a pandemic. These interviews will be posted in spring 2021.</p><a class="dib mt5 Card__cta" href="{{site.baseurl}}/covid/">Read more</a>
            </div>
        </div>
-       <div class="flex h-a h-50-md h-a-lg w-100 mt3 mt0-lg w-50-lg relative"><a class="flex-auto" href="covid-19/">
+       <div class="flex h-a h-50-md h-a-lg w-100 mt3 mt0-lg w-50-lg relative"><a class="flex-auto" href="covid/">
          <figure class="Card__figure relative absolute-md" style="background-color:#CFA38A;background-image:url(//images.ctfassets.net/0j7k3rz20xse/6vQqh7VJNmeYd0mryvbKNL/1797ca16427d2faa4f9267f90fae4945/covid-home.png?w=1456&amp;fm=jpg&amp;fl=progressive&amp;q=70);background-blend-mode:multiply"></figure>
            </a></div>
    </div>
