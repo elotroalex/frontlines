@@ -18,7 +18,7 @@ This timeline displays some of the major events of the 2014-16 Ebola outbreak in
 
 
 <div class="menu-button">
-  <a href="/frontlines/ebola/collection/" alt="Go to Interviews">Go to Interviews</a> | <a href="/frontlines/ebola/history/" alt="Go to Interviews">Go to History</a>
+  <a href="/ebola/collection/" alt="Go to Interviews">Go to Interviews</a> | <a href="/ebola/history/" alt="Go to Interviews">Go to History</a>
 </div>
 <br>
 
