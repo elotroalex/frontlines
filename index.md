@@ -6,7 +6,7 @@ show_title: false
 section: home
 ---
 
-<section class="Intro mh-100 flex flex-column">
+<section class="Intro flex flex-column">
   <div class="Intro__inner flex flex-column flex-auto justify-between relative w-100 pt5 pt3-md pa3">
       <div class="Intro__top">
           <h1 class="page-header">Frontline Nurses</h1>
