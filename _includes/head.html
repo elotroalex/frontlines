@@ -5,8 +5,44 @@
     {{ site.title }}{% if page.label %} | {{ page.label }}{% elsif page.title %} | {{ page.title }}{% endif %}
   </title>
   <link rel='canonical' href='{{ page.url | absolute_url }}'/>
+
+  <!-- Favicon -->
   <link rel='icon' type='image/png' href="{{ 'img/logo.png' | absolute_url }}">
+
+   <!-- Twitter Card metadata -->
+  <meta name="twitter:card" content="frontlinenurses" />
+  <meta name="twitter:site" content="@elotroalex" />
+  <meta name="twitter:title" content="Fronline Nurses" />
+  <meta name="twitter:description" content="Frontline Nurses: Leaders in Pandemic Response seeks to document the role of frontline nurses in pandemic disease outbreaks, to recognize nurses and midwives for their critical contribution to public health during emergencies, and to advocate for nurses’ expertise in health care policymaking and improved health outcomes." />
+  <meta name="twitter:image" content="http://archipelagosjournal.org/img/logo.png"/>
+
+<!-- Open Graph -->
+    <meta property="og:title" content="Fronline Nurses"/>
+    <meta property="og:description" content="Frontline Nurses: Leaders in Pandemic Response seeks to document the role of frontline nurses in pandemic disease outbreaks, to recognize nurses and midwives for their critical contribution to public health during emergencies, and to advocate for nurses’ expertise in health care policymaking and improved health outcomes.">
+    <meta property="fb:admins" content="elotroalex"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}"/>
+    <meta property="fb:app_id" content="837201816410405"/>
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}/img/logo.png"/>
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+
+<!-- Apple Touch -->
+
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="img/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="img/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="img/apple-touch-icon-152x152.png" />
+
+<!-- Stylesheet and JQuery -->
+
   <link rel='stylesheet' href="{{ '/assets/styles.css' | absolute_url }}"/>
+
   <script type='text/javascript' src="{{ '/assets/jquery-3.2.1.min.js' | absolute_url }}"></script>
   <noscript><p>Please enable JavaScript in your browser.</p></noscript>
 </head>
