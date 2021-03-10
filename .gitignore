@@ -5,3 +5,4 @@ _site
 Gemfile.lock
 package-lock.json
 .notes
+robots.txt
