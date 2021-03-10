@@ -221,10 +221,10 @@ Nicholas, Joan Shepherd, Mame Toure, Paige West**.
 
 You can find us on social media on,
 
-[Instagram](https://www.instagram.com/frontlinenursesandmidwives/) \| [Twitter](https://twitter.com/OFrontlines) \| [Facebook](https://www.facebook.com/frontlinenursesandmidwives)
+**[Instagram](https://www.instagram.com/frontlinenursesandmidwives/)** \| **[Twitter](https://twitter.com/OFrontlines)** \| **[Facebook](https://www.facebook.com/frontlinenursesandmidwives)**
 <br>
 <br>
 Or contact us at, 
 
-frontlinesnurses@gmail.com.
+**frontlinesnurses@gmail.com**.
 
