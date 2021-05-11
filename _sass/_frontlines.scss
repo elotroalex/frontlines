@@ -430,7 +430,9 @@ img.item-full-image {
   right: 0;
   background-color: #fff;
   overflow-x: hidden;
-  transition: 0.5s;
+  overflow-y: auto;
+
+  transition: all var(--menu-speed) ease;
   padding-top: 60px;
   filter: drop-shadow(0 0 .75rem $neutral);
 }
