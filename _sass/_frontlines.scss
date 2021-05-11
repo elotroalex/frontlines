@@ -250,12 +250,12 @@ a.page-title-text:hover {
   }
 
   span.footer-title {
-    font-size: 3rem;
+    font-size: 8vw;
     letter-spacing: -0.035em;
   }
 
   span.footer-rights  {
-    font-size: .4rem;
+    font-size: 1vw;
   }
 
   h4.body-header-sub {
@@ -1376,3 +1376,12 @@ h3 {
   }
 }
 
+// @media screen and (min-width: 1400px) {
+//     .social-media-icons {
+//       padding-top: 4rem;
+//     }
+// }
+
+.social-media-icons {
+  padding-bottom: 2rem;
+}
